@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: electron-cash\n"
+"Project-Id-Version: electron-sv\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-12 22:03+0300\n"
 "PO-Revision-Date: 2018-10-14 09:42\n"
@@ -12,9 +12,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: crowdin.com\n"
-"X-Crowdin-Project: electron-cash\n"
+"X-Crowdin-Project: electron-sv\n"
 "X-Crowdin-Language: th\n"
-"X-Crowdin-File: /electron-cash-client/messages.pot\n"
+"X-Crowdin-File: /electron-sv-client/messages.pot\n"
 
 #: lib/exchange_rate.py:391
 msgid "  (No FX rate available)"
@@ -28,7 +28,7 @@ msgstr " Balance"
 msgid " These settings affects the fields in the Send tab"
 msgstr " These settings affects the fields in the Send tab"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:2052
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:2052
 msgid " copied to clipboard"
 msgstr " copied to clipboard"
 
@@ -37,7 +37,7 @@ msgstr " copied to clipboard"
 msgid "%2d minutes"
 msgstr "%2d minutes"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1197
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1197
 #, python-format
 msgid "%d valid item(s)"
 msgstr "%d valid item(s)"
@@ -52,7 +52,7 @@ msgid "&About"
 msgstr "About"
 
 #: gui/qt/main_window.py:167
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:313
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:313
 msgid "&Addresses"
 msgstr "&Addresses"
 
@@ -189,7 +189,7 @@ msgstr "&Wallet"
 msgid "( %s in dust was added to fee )"
 msgstr ""
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:307
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:307
 msgid "(Script Output)"
 msgstr "(Script Output)"
 
@@ -201,7 +201,7 @@ msgstr "(Touch {} of {})"
 msgid "+"
 msgstr "+"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:974
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:974
 msgid "..."
 msgstr "..."
 
@@ -217,7 +217,7 @@ msgstr "1 hour"
 msgid "1 week"
 msgstr "1 week"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/password_dialog.py:164
+#: ios/ElectronSV/electronsv_gui/ios_native/password_dialog.py:164
 msgid ":"
 msgstr ":"
 
@@ -229,11 +229,11 @@ msgstr "A backup is saved automatically when generating a new wallet."
 msgid "A copy of your wallet file was created in"
 msgstr "Your labels were exported to"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1175
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1175
 msgid "A deterministic wallet will be created using the provided master private key. This wallet will be able to freely send and receive Bitcoin Cash."
 msgstr "A deterministic wallet will be created using the provided master private key. This wallet will be able to freely send and receive Bitcoin Cash."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1173
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1173
 msgid "A deterministic wallet will be created using the provided master public key. This wallet will be watching-only."
 msgstr "A deterministic wallet will be created using the provided master public key. This wallet will be watching-only."
 
@@ -245,15 +245,15 @@ msgstr "A library is probably missing."
 msgid "A suggested fee is automatically added to this field. You may override it. The suggested fee increases with the size of the transaction."
 msgstr "A suggested fee is automatically added to this field. You may override it. The suggested fee increases with the size of the transaction."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:234
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:234
 msgid "A wallet with that name already exist. Please enter a different wallet name to proceed."
 msgstr "A wallet with that name already exist. Please enter a different wallet name to proceed."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:563
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:563
 msgid "A wallet with that name already exists, please try again."
 msgstr "A wallet with that name already exists, please try again."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1648
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1648
 msgid "A wallet with that name already exists. Cannot proceed."
 msgstr "A wallet with that name already exists. Cannot proceed."
 
@@ -285,16 +285,16 @@ msgstr "Add an optional virtual keyboard to the password dialog."
 msgid "Add cosigner"
 msgstr "Add cosigner"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:198
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:198
 msgid "Add new wallet"
 msgstr ""
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:338
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:338
 msgid "Add to Contacts"
 msgstr "Add to Contacts"
 
 #: gui/qt/main_window.py:1519
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:784
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:784
 msgid "Additional fees"
 msgstr "Additional fees"
 
@@ -302,22 +302,22 @@ msgstr "Additional fees"
 #: gui/qt/main_window.py:2161 gui/qt/main_window.py:2236
 #: gui/qt/request_list.py:42 gui/qt/address_dialog.py:42 gui/qt/utxo_list.py:33
 #: gui/qt/contact_list.py:43
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:570
-#: ios/ElectronCash/electroncash_gui/ios_native/private_key_dialog.py:55
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:642
-#: ios/ElectronCash/electroncash_gui/ios_native/addrconv.py:60
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:627
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:570
+#: ios/ElectronSV/electronsv_gui/ios_native/private_key_dialog.py:55
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:642
+#: ios/ElectronSV/electronsv_gui/ios_native/addrconv.py:60
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:627
 msgid "Address"
 msgstr "Address"
 
 #: gui/qt/main_window.py:170
-#: ios/ElectronCash/electroncash_gui/ios_native/addrconv.py:22
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:227
+#: ios/ElectronSV/electronsv_gui/ios_native/addrconv.py:22
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:227
 msgid "Address Converter"
 msgstr "Address Converter"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:332
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:630
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:332
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:630
 msgid "Address Details"
 msgstr "Address Details"
 
@@ -326,12 +326,12 @@ msgid "Address copied to clipboard"
 msgstr "Address copied to clipboard"
 
 #: gui/qt/main_window.py:2196
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:249
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:249
 msgid "Address not in wallet."
 msgstr "Address not in wallet."
 
 #: gui/qt/main_window.py:1770
-#: ios/ElectronCash/electroncash_gui/ios_native/addrconv.py:55
+#: ios/ElectronSV/electronsv_gui/ios_native/addrconv.py:55
 msgid "Address to convert"
 msgstr "Address to convert"
 
@@ -360,19 +360,19 @@ msgid "After disabling passphrases, you can only pair this Electron Cash wallet 
 msgstr "After disabling passphrases, you can only pair this Electron Cash wallet if it had an empty passphrase.  If its passphrase was not empty, you will need to create a new wallet with the install wizard.  You can use this wallet again at any time by re-enabling passphrases and entering its passphrase."
 
 #: gui/kivy/uix/ui_screens/address.kv:84
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:30
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:30
 msgid "All"
 msgstr "All"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/history.py:466
+#: ios/ElectronSV/electronsv_gui/ios_native/history.py:466
 msgid "All Transactions"
 msgstr "All Transactions"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:138
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:138
 msgid "All set and good to go."
 msgstr "All set and good to go."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:292
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:292
 msgid "Already Expired"
 msgstr "Already Expired"
 
@@ -382,11 +382,11 @@ msgstr "Already Expired"
 #: gui/qt/main_window.py:1909 gui/qt/history_list.py:64
 #: gui/qt/history_list.py:67 gui/qt/request_list.py:42 gui/qt/utxo_list.py:33
 #: gui/text.py:104 gui/text.py:175 gui/stdio.py:104
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:644
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:270
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:524
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:596
-#: ios/ElectronCash/electroncash_gui/ios_native/history.py:517
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:644
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:270
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:524
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:596
+#: ios/ElectronSV/electronsv_gui/ios_native/history.py:517
 msgid "Amount"
 msgstr "Amount"
 
@@ -395,17 +395,17 @@ msgid "Amount received"
 msgstr "Amount received"
 
 #: gui/qt/transaction_dialog.py:233
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:527
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:527
 msgid "Amount received:"
 msgstr "Amount received:"
 
 #: gui/qt/transaction_dialog.py:235
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:532
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:532
 msgid "Amount sent:"
 msgstr "Amount sent:"
 
 #: gui/kivy/uix/screens.py:285 gui/qt/main_window.py:1512
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:777
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:777
 msgid "Amount to be sent"
 msgstr "Amount to be sent"
 
@@ -426,7 +426,7 @@ msgstr "An encrypted transaction was retrieved from cosigning pool."
 msgid "An uninitialized Digital Bitbox is detected."
 msgstr "An uninitialized Digital Bitbox is detected."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1178
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1178
 msgid "An unknown error occurred. Cannot proceed."
 msgstr "An unknown error occurred. Cannot proceed."
 
@@ -434,12 +434,12 @@ msgstr "An unknown error occurred. Cannot proceed."
 msgid "An unnamed {}"
 msgstr "An unnamed {}"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:30
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:30
 msgid "Any"
 msgstr ""
 
 #: gui/qt/main_window.py:3078
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:24
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:24
 msgid "Appearance"
 msgstr "Appearance"
 
@@ -469,7 +469,7 @@ msgstr "Are you sure you want to proceed?"
 msgid "Are you sure you want to uninstall the selected plugin?"
 msgstr "Are you sure you want to uninstall the selected plugin?"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:861
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:861
 msgid "Are you sure you wish to delete this contact?"
 msgstr "Are you sure you wish to delete this contact?"
 
@@ -485,7 +485,7 @@ msgstr "Audio MODEM"
 msgid "Audio Modem Settings"
 msgstr "Audio Modem Settings"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/utils.py:1631
+#: ios/ElectronSV/electronsv_gui/ios_native/utils.py:1631
 msgid "Authenticate, please"
 msgstr "Authenticate, please"
 
@@ -515,19 +515,19 @@ msgstr "BIP39 seeds do not include a version number, which compromises compatibi
 
 #: gui/qt/installwizard.py:79 gui/qt/installwizard.py:115
 #: gui/qt/installwizard.py:116
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:101
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:608
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:78
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:80
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:33
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:82
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:598
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:70
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:36
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:257
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:63
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:332
-#: ios/ElectronCash/electroncash_gui/ios_native/history.py:468
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:101
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:608
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:78
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:80
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:33
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:82
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:598
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:70
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:36
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:257
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:63
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:332
+#: ios/ElectronSV/electronsv_gui/ios_native/history.py:468
 msgid "Back"
 msgstr "Back"
 
@@ -535,9 +535,9 @@ msgstr "Back"
 #: gui/qt/main_window.py:783 gui/qt/history_list.py:64
 #: gui/qt/history_list.py:67 gui/qt/address_list.py:50 gui/text.py:104
 #: gui/text.py:137 gui/stdio.py:104 gui/stdio.py:116
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:447
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:646
-#: ios/ElectronCash/electroncash_gui/ios_native/history.py:518
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:447
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:646
+#: ios/ElectronSV/electronsv_gui/ios_native/history.py:518
 msgid "Balance"
 msgstr "Balance"
 
@@ -546,7 +546,7 @@ msgid "Banner"
 msgstr "Banner"
 
 #: gui/qt/main_window.py:2875
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:334
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:334
 msgid "Base unit"
 msgstr "Base unit"
 
@@ -558,7 +558,7 @@ msgstr "Base unit of your wallet."
 msgid "Before reporting a bug, upgrade to the most recent version of Electron Cash (latest release or git HEAD), and include the version number in your report."
 msgstr "Before reporting a bug, upgrade to the most recent version of Electron Cash (latest release or git HEAD), and include the version number in your report."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1910
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1910
 msgid "Biometrics Unavailable"
 msgstr "Biometrics Unavailable"
 
@@ -591,12 +591,12 @@ msgid "Brasilian"
 msgstr "Brasilian"
 
 #: gui/qt/transaction_dialog.py:99
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:442
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:442
 msgid "Broadcast"
 msgstr "Broadcast"
 
 #: gui/qt/main_window.py:1617
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1871
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1871
 msgid "Broadcasting transaction..."
 msgstr "Broadcasting transaction..."
 
@@ -608,48 +608,48 @@ msgstr "CPFP no longer valid"
 msgid "CSV"
 msgstr "CSV"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:763
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:763
 msgid "Calculating Tx Details..."
 msgstr "Calculating Tx Details..."
 
 #: gui/qt/util.py:163 gui/qt/installwizard.py:79 gui/qt/installwizard.py:116
 #: gui/qt/installwizard.py:505 plugins/keepkey/qt_generic.py:77
 #: plugins/trezor/qt.py:64
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:865
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:884
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:311
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:321
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:498
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:505
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:572
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:606
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:621
-#: ios/ElectronCash/electroncash_gui/ios_native/seed_dialog.py:147
-#: ios/ElectronCash/electroncash_gui/ios_native/seed_dialog.py:151
-#: ios/ElectronCash/electroncash_gui/ios_native/password_dialog.py:288
-#: ios/ElectronCash/electroncash_gui/ios_native/password_dialog.py:289
-#: ios/ElectronCash/electroncash_gui/ios_native/password_dialog.py:351
-#: ios/ElectronCash/electroncash_gui/ios_native/password_dialog.py:352
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:33
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:84
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:296
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:347
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:776
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:791
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:467
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:481
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:500
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:521
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:538
-#: ios/ElectronCash/electroncash_gui/ios_native/utils.py:535
-#: ios/ElectronCash/electroncash_gui/ios_native/utils.py:536
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:192
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:482
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:629
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:876
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:927
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:812
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1045
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:865
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:884
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:311
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:321
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:498
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:505
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:572
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:606
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:621
+#: ios/ElectronSV/electronsv_gui/ios_native/seed_dialog.py:147
+#: ios/ElectronSV/electronsv_gui/ios_native/seed_dialog.py:151
+#: ios/ElectronSV/electronsv_gui/ios_native/password_dialog.py:288
+#: ios/ElectronSV/electronsv_gui/ios_native/password_dialog.py:289
+#: ios/ElectronSV/electronsv_gui/ios_native/password_dialog.py:351
+#: ios/ElectronSV/electronsv_gui/ios_native/password_dialog.py:352
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:33
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:84
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:296
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:347
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:776
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:791
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:467
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:481
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:500
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:521
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:538
+#: ios/ElectronSV/electronsv_gui/ios_native/utils.py:535
+#: ios/ElectronSV/electronsv_gui/ios_native/utils.py:536
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:192
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:482
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:629
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:876
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:927
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:812
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1045
 msgid "Cancel"
 msgstr "Cancel"
 
@@ -658,7 +658,7 @@ msgstr "Cancel"
 msgid "Cancelled by user"
 msgstr "Cancelled by user"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:582
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:582
 msgid "Cannot Delete Active Wallet"
 msgstr "Cannot Delete Active Wallet"
 
@@ -670,13 +670,13 @@ msgstr "Cannot add this cosigner:"
 msgid "Cannot broadcast transaction"
 msgstr "Cannot broadcast transaction"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:2089
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:2089
 msgid "Cannot display the requested transaction as you don't have a wallet open.\n\n"
 "Open a wallet and try again."
 msgstr "Cannot display the requested transaction as you don't have a wallet open.\n\n"
 "Open a wallet and try again."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:2103
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:2103
 msgid "Cannot display the requested transaction since you already have a modal dialog open.\n\n"
 "Close the current dialog and try again."
 msgstr "Cannot display the requested transaction since you already have a modal dialog open.\n\n"
@@ -690,47 +690,47 @@ msgstr "Cannot find python library for"
 msgid "Cannot read file"
 msgstr "Cannot read file"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:147
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:147
 msgid "Cannot send/receive new transactions."
 msgstr "Cannot send/receive new transactions."
 
 #: gui/qt/main_window.py:2191
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:241
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:241
 msgid "Cannot sign messages with this type of address."
 msgstr "Cannot sign messages with this type of address."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1205
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1205
 msgid "Cannot specify private keys and addresses in the same wallet. Addresses will result in a watching-only wallet, and private keys in a spending wallet. Remove incompatible items (by swiping them left)."
 msgstr "Cannot specify private keys and addresses in the same wallet. Addresses will result in a watching-only wallet, and private keys in a spending wallet. Remove incompatible items (by swipiong them left)."
 
 #: gui/qt/main_window.py:1772
-#: ios/ElectronCash/electroncash_gui/ios_native/addrconv.py:61
+#: ios/ElectronSV/electronsv_gui/ios_native/addrconv.py:61
 msgid "Cash address"
 msgstr "Cash address"
 
 #: gui/qt/main_window.py:2744
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:312
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:312
 msgid "CashAddr address format"
 msgstr "CashAddr address format"
 
 #: gui/qt/network_dialog.py:364
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:264
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:264
 #, python-format
 msgid "Chain split detected at block %d"
 msgstr "Chain split detected at block %d"
 
 #: gui/kivy/uix/ui_screens/address.kv:73 gui/qt/address_list.py:95
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:203
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:608
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:31
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:192
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:204
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:459
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:465
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:203
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:608
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:31
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:192
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:204
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:459
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:465
 msgid "Change"
 msgstr "Change"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:205
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:205
 msgid "Change Address"
 msgstr "Change Address"
 
@@ -742,8 +742,8 @@ msgstr "Change PIN"
 msgid "Change Password"
 msgstr "Change Password"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:629
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:238
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:629
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:238
 msgid "Change or Set Password"
 msgstr "Change or Set Password"
 
@@ -771,7 +771,7 @@ msgstr "Child pays for parent"
 msgid "Chinese"
 msgstr "Chinese"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:314
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:314
 msgid "Choose Address"
 msgstr "Choose Address"
 
@@ -791,7 +791,7 @@ msgstr "Choose a password to encrypt your wallet keys."
 msgid "Choose a server"
 msgstr "Choose a server"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:145
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:145
 msgid "Choose address or enter a public key"
 msgstr "Choose address or enter a public key"
 
@@ -832,8 +832,8 @@ msgid "Choose..."
 msgstr "Choose..."
 
 #: gui/kivy/uix/ui_screens/send.kv:86 gui/qt/main_window.py:1201
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:231
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:249
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:231
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:249
 msgid "Clear"
 msgstr "Clear"
 
@@ -860,15 +860,15 @@ msgstr "Close"
 msgid "Co&ins"
 msgstr "Co&ins"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:32
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:32
 msgid "Coin Info"
 msgstr "Coin Info"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:243
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:243
 msgid "Coins"
 msgstr "Coins"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:799
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:799
 msgid "Coming Soon"
 msgstr "Coming Soon"
 
@@ -884,7 +884,7 @@ msgstr "Con&sole"
 msgid "Con&tacts"
 msgstr "Con&tacts"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:860
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:860
 msgid "Confirm Delete"
 msgstr "Confirm Delete"
 
@@ -908,7 +908,7 @@ msgstr "Confirm Seed"
 msgid "Confirm Seed Extension"
 msgstr "Confirm Seed Extension"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:809
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:809
 msgid "Confirm Send"
 msgstr "Confirm Send"
 
@@ -920,7 +920,7 @@ msgstr "Confirm Toggle Passphrase Protection"
 msgid "Confirm Transaction on your Ledger device..."
 msgstr "Confirm Transaction on your Ledger device..."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:25
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:25
 msgid "Confirm Wallet Password"
 msgstr ""
 
@@ -989,8 +989,8 @@ msgid "Confirmed. Signing Transaction..."
 msgstr "Confirmed. Signing Transaction..."
 
 #: gui/qt/network_dialog.py:70
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:276
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:327
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:276
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:327
 msgid "Connected node"
 msgstr "Connected node"
 
@@ -999,7 +999,7 @@ msgid "Connected nodes are on the same chain"
 msgstr "Connected nodes are on the same chain"
 
 #: gui/qt/network_dialog.py:357
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:258
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:258
 #, python-format
 msgid "Connected to %d nodes."
 msgstr "Connected to %d nodes."
@@ -1012,34 +1012,34 @@ msgstr "Connecting..."
 msgid "Connections with Electron Cash servers"
 msgstr "Connections with Electron Cash servers"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:204
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:204
 msgid "Contact"
 msgstr "Contact"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:604
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:604
 msgid "Contact Info"
 msgstr "Contact Info"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:337
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:337
 msgid "Contact added"
 msgstr "Contact added"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:391
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:435
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:652
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:391
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:435
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:652
 msgid "Contact saved"
 msgstr "Contact saved"
 
 #: gui/qt/main_window.py:525 gui/text.py:64
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:68
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:68
 msgid "Contacts"
 msgstr "Contacts"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:30
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:30
 msgid "Control your own private keys"
 msgstr ""
 
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:228
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:228
 msgid "Convert between Legacy and Cashaddr formats"
 msgstr "Convert between Legacy and Cashaddr formats"
 
@@ -1048,18 +1048,18 @@ msgstr "Convert between Legacy and Cashaddr formats"
 msgid "Copy"
 msgstr "Copy"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:866
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:291
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:627
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:877
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:866
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:291
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:627
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:877
 msgid "Copy Address"
 msgstr "Copy Address"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:896
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:896
 msgid "Copy Public key"
 msgstr ""
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:304
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:304
 msgid "Copy Script"
 msgstr "Copy Script"
 
@@ -1067,7 +1067,7 @@ msgstr "Copy Script"
 msgid "Copy URI"
 msgstr "Copy URI"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:628
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:628
 msgid "Copy UTXO"
 msgstr "Copy UTXO"
 
@@ -1079,13 +1079,13 @@ msgstr "Copy and Close"
 msgid "Copy and paste the recipient address using the Paste button, or use the camera to scan a QR code."
 msgstr "Copy and paste the recipient address using the Paste button, or use the camera to scan a QR code."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:293
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:293
 msgid "Copy input hash"
 msgstr "Copy input hash"
 
 #: gui/qt/util.py:527
-#: ios/ElectronCash/electroncash_gui/ios_native/seed_dialog.py:148
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:777
+#: ios/ElectronSV/electronsv_gui/ios_native/seed_dialog.py:148
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:777
 msgid "Copy to clipboard"
 msgstr "Copy to clipboard"
 
@@ -1113,7 +1113,7 @@ msgstr "Could not sign message"
 msgid "Could not sign message."
 msgstr "Could not sign message."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/crashreporter.py:66
+#: ios/ElectronSV/electronsv_gui/ios_native/crashreporter.py:66
 msgid "Crash Reporter"
 msgstr "Crash Reporter"
 
@@ -1121,8 +1121,8 @@ msgstr "Crash Reporter"
 msgid "Create"
 msgstr "Create"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:814
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1539
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:814
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1539
 msgid "Create New Standard Wallet"
 msgstr ""
 
@@ -1130,7 +1130,7 @@ msgstr ""
 msgid "Create a new seed"
 msgstr "Create a new seed"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:846
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:846
 msgid "Create a wallet using a Master Key"
 msgstr "Create a wallet using a Master Key"
 
@@ -1166,7 +1166,7 @@ msgstr "Custom rate: "
 msgid "Czech"
 msgstr "Czech"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1535
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1535
 msgid "Daemon was not running."
 msgstr "Daemon was not running."
 
@@ -1180,8 +1180,8 @@ msgstr "Dark/Light"
 
 #: gui/qt/history_list.py:64 gui/qt/request_list.py:42 gui/text.py:104
 #: gui/stdio.py:104
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:506
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:517
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:506
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:517
 msgid "Date"
 msgstr "Date"
 
@@ -1204,15 +1204,15 @@ msgstr "Default Servers"
 #: gui/kivy/uix/ui_screens/status.kv:73 gui/qt/invoice_list.py:87
 #: gui/qt/main_window.py:506 gui/qt/main_window.py:1936
 #: gui/qt/request_list.py:125 gui/qt/contact_list.py:82
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:862
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:870
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:885
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:606
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:862
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:870
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:885
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:606
 msgid "Delete"
 msgstr "Delete"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:604
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:622
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:604
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:622
 msgid "Delete Wallet"
 msgstr "Delete Wallet"
 
@@ -1236,12 +1236,12 @@ msgstr "Delete wallet?"
 msgid "Denomination"
 msgstr "Denomination"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:682
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:687
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:682
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:687
 msgid "Derivation"
 msgstr "Derivation"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:675
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:675
 msgid "Derivation Invalid"
 msgstr "Derivation Invalid"
 
@@ -1249,7 +1249,7 @@ msgstr "Derivation Invalid"
 msgid "Derivation for {} wallet"
 msgstr "Derivation for {} wallet"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1026
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1026
 msgid "Deriving addresses..."
 msgstr "Deriving addresses..."
 
@@ -1259,21 +1259,21 @@ msgstr "Deriving addresses..."
 #: gui/qt/main_window.py:1111 gui/qt/history_list.py:64
 #: gui/qt/request_list.py:42 gui/qt/transaction_dialog.py:216 gui/text.py:104
 #: gui/text.py:174 gui/stdio.py:104
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:199
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:186
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:476
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:199
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:186
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:476
 msgid "Description"
 msgstr "Description"
 
 #: gui/qt/main_window.py:1109
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:205
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:212
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:205
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:212
 msgid "Description of the transaction (not mandatory)."
 msgstr "Description of the transaction (not mandatory)."
 
 #: gui/qt/invoice_list.py:84 gui/qt/history_list.py:177
 #: gui/qt/address_list.py:171 gui/qt/utxo_list.py:72
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:596
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:596
 msgid "Details"
 msgstr "Details"
 
@@ -1335,7 +1335,7 @@ msgid "Do not pair"
 msgstr "Do not pair"
 
 #: gui/qt/seed_dialog.py:46
-#: ios/ElectronCash/electroncash_gui/ios_native/seed_dialog.py:91
+#: ios/ElectronSV/electronsv_gui/ios_native/seed_dialog.py:91
 msgid "Do not store it electronically."
 msgstr "Do not store it electronically."
 
@@ -1367,7 +1367,7 @@ msgstr "Do you want to send this report?"
 msgid "Do you wish to continue?"
 msgstr "Do you wish to continue?"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:410
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:410
 msgid "Do you wish to follow the\n"
 "{}@{}\n"
 "branch?"
@@ -1375,13 +1375,13 @@ msgstr "Do you wish to follow the\n"
 "{}@{}\n"
 "branch?"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:774
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:774
 msgid "Do you wish to hide the download progress banner?\n"
 "(You can re-enabled it in Settings later)"
 msgstr "Do you wish to hide the download progress banner?\n"
 "(You can re-enabled it in Settings later)"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:428
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:428
 msgid "Do you wish to use\n"
 "{}:{}\n"
 "as the blockchain server?"
@@ -1389,7 +1389,7 @@ msgstr "Do you wish to use\n"
 "{}:{}\n"
 "as the blockchain server?"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:404
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:404
 msgid "Do you wish to use\n"
 "{}:{}\n"
 "as the wallet server?"
@@ -1401,15 +1401,15 @@ msgstr "Do you wish to use\n"
 msgid "Documentation"
 msgstr "Documentation"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:142
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:142
 msgid "Downloading Headers"
 msgstr "Downloading Headers"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:400
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:400
 msgid "Downloading blockchain headers..."
 msgstr "Downloading blockchain headers..."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:698
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:698
 msgid "Downloading headers {}% ..."
 msgstr "Downloading headers {}% ..."
 
@@ -1417,17 +1417,17 @@ msgstr "Downloading headers {}% ..."
 msgid "Dutch"
 msgstr "Dutch"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:30
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:30
 msgid "Easily back up your wallet with a mnemonic seed phrase."
 msgstr ""
 
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:565
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:867
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:565
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:867
 msgid "Edit Contact"
 msgstr "Edit Contact"
 
 #: gui/qt/main_window.py:2812
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:276
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:276
 msgid "Edit fees manually"
 msgstr "Edit fees manually"
 
@@ -1447,11 +1447,11 @@ msgid "Electron Cash communicates with remote servers to get information about y
 msgstr "Electron Cash communicates with remote servers to get information about your transactions and addresses. The servers all fulfil the same purpose only differing in hardware. In most cases you simply want to let Electron Cash pick one at random.  However if you prefer feel free to select a server manually."
 
 #: gui/qt/network_dialog.py:287
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:494
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:494
 msgid "Electron Cash connects to several nodes in order to download block headers and find out the longest blockchain."
 msgstr "Electron Cash connects to several nodes in order to download block headers and find out the longest blockchain."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:29
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:29
 msgid "Electron Cash is an SPV wallet for Bitcoin Cash"
 msgstr ""
 
@@ -1472,7 +1472,7 @@ msgid "Electron Cash requests your transaction history from a single server. The
 msgstr "Electron Cash requests your transaction history from a single server. The returned history is checked against blockchain headers sent by other nodes, using Simple Payment Verification (SPV)."
 
 #: gui/qt/network_dialog.py:296
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:498
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:498
 msgid "Electron Cash sends your wallet addresses to a single server, in order to receive your transaction history."
 msgstr "Electron Cash sends your wallet addresses to a single server, in order to receive your transaction history."
 
@@ -1501,7 +1501,7 @@ msgid "Electron Cash was unable to open your transaction file"
 msgstr "Electron Cash was unable to open your transaction file"
 
 #: gui/qt/main_window.py:2343
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:2111
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:2111
 msgid "Electron Cash was unable to parse your transaction"
 msgstr "Electron Cash was unable to parse your transaction"
 
@@ -1518,8 +1518,8 @@ msgid "Electron Cash's focus is speed, with low resource usage and simplifying B
 msgstr "Electron Cash's focus is speed, with low resource usage and simplifying Bitcoin Cash. You do not need to perform regular backups, because your wallet can be recovered from a secret phrase that you can memorize or write on paper. Startup times are instant because it operates in conjunction with high-performance servers that handle the most complicated parts of the Bitcoin Cash system.\n\n"
 
 #: gui/kivy/main_window.py:249
-msgid "Electron-Cash App"
-msgstr "Electron-Cash App"
+msgid "electron-sv App"
+msgstr "electron-sv App"
 
 #: plugins/email_requests/__init__.py:3
 msgid "Email"
@@ -1565,12 +1565,12 @@ msgstr "Encrypt"
 msgid "Encrypt wallet file"
 msgstr "Encrypt wallet file"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:37
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:37
 msgid "Encrypt/Decrypt Message"
 msgstr "Encrypt/Decrypt Message"
 
 #: gui/qt/main_window.py:2280
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:918
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:918
 msgid "Encrypt/decrypt Message"
 msgstr "Encrypt/decrypt Message"
 
@@ -1594,7 +1594,7 @@ msgstr "Encryption and decryption are not implemented by {}"
 msgid "English"
 msgstr "English"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:31
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:31
 msgid "Enjoy high security"
 msgstr ""
 
@@ -1611,10 +1611,10 @@ msgid "Enter Passphrase"
 msgstr "Enter Passphrase"
 
 #: gui/qt/password_dialog.py:58 gui/qt/password_dialog.py:199
-#: ios/ElectronCash/electroncash_gui/ios_native/password_dialog.py:258
-#: ios/ElectronCash/electroncash_gui/ios_native/password_dialog.py:267
-#: ios/ElectronCash/electroncash_gui/ios_native/password_dialog.py:305
-#: ios/ElectronCash/electroncash_gui/ios_native/password_dialog.py:314
+#: ios/ElectronSV/electronsv_gui/ios_native/password_dialog.py:258
+#: ios/ElectronSV/electronsv_gui/ios_native/password_dialog.py:267
+#: ios/ElectronSV/electronsv_gui/ios_native/password_dialog.py:305
+#: ios/ElectronSV/electronsv_gui/ios_native/password_dialog.py:314
 msgid "Enter Password"
 msgstr "Enter Password"
 
@@ -1642,7 +1642,7 @@ msgstr "Enter a list of Bitcoin Cash addresses (this will create a watching-only
 msgid "Enter a list of outputs in the 'Pay to' field."
 msgstr "Enter a list of outputs in the 'Pay to' field."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:854
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:854
 msgid "Enter a list of private keys to create a regular spending wallet. Alternatively, you can create a 'watching-only' wallet by entering a list of Bitcoin Cash addresses."
 msgstr "Enter a list of private keys to create a regular spending wallet. Alternatively, you can create a 'watching-only' wallet by entering a list of Bitcoin Cash addresses."
 
@@ -1678,11 +1678,11 @@ msgstr "Enter description"
 msgid "Enter new PIN"
 msgstr "Enter new PIN"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:568
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:568
 msgid "Enter new wallet name"
 msgstr "Enter new wallet name"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:145
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:145
 msgid "Enter or pick address"
 msgstr "Enter or pick address"
 
@@ -1719,7 +1719,7 @@ msgid "Enter the recovery words by pressing the buttons according to what the de
 msgstr "Enter the recovery words by pressing the buttons according to what the device shows on its display.  You can also use your NUMPAD.\n"
 "Press BACKSPACE to go back a choice or word.\n"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:24
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:24
 msgid "Enter the same password again"
 msgstr ""
 
@@ -1778,17 +1778,17 @@ msgid "Enter your password or choose another file."
 msgstr "Enter your password or choose another file."
 
 #: gui/qt/main_window.py:1535
-#: ios/ElectronCash/electroncash_gui/ios_native/password_dialog.py:259
-#: ios/ElectronCash/electroncash_gui/ios_native/password_dialog.py:306
+#: ios/ElectronSV/electronsv_gui/ios_native/password_dialog.py:259
+#: ios/ElectronSV/electronsv_gui/ios_native/password_dialog.py:306
 msgid "Enter your password to proceed"
 msgstr "Enter your password to proceed"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:582
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:582
 msgid "Enter your seed phrase"
 msgstr "Enter your seed phrase"
 
 #: lib/base_wizard.py:236
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:683
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:683
 msgid "Enter your wallet derivation here."
 msgstr "Enter your wallet derivation here."
 
@@ -1798,11 +1798,11 @@ msgstr "Erase the Digital Bitbox"
 
 #: gui/qt/util.py:191 gui/qt/__init__.py:215 gui/qt/__init__.py:218
 #: gui/qt/installwizard.py:235 gui/qt/installwizard.py:239 gui/text.py:360
-#: gui/stdio.py:209 ios/ElectronCash/electroncash_gui/ios_native/send.py:967
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:980
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:985
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:394
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1021
+#: gui/stdio.py:209 ios/ElectronSV/electronsv_gui/ios_native/send.py:967
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:980
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:985
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:394
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1021
 msgid "Error"
 msgstr "Error"
 
@@ -1818,7 +1818,7 @@ msgstr "Esperanto"
 msgid "Exit Electron Cash"
 msgstr "Exit Electron Cash"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:510
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:510
 msgid "Expected conf."
 msgstr "Expected conf."
 
@@ -1858,7 +1858,7 @@ msgstr "Export History"
 msgid "Export private key"
 msgstr "Export private key"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1630
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1630
 msgid "Exporting Wallet..."
 msgstr "Exporting Wallet..."
 
@@ -1870,7 +1870,7 @@ msgstr "Exposing a single private key can compromise your entire wallet!"
 msgid "Extend this seed with custom words"
 msgstr "Extend this seed with custom words"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:201
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:201
 msgid "External Address"
 msgstr "External Address"
 
@@ -1887,17 +1887,17 @@ msgid "Failed to send transaction to cosigning pool."
 msgstr "Failed to send transaction to cosigning pool."
 
 #: gui/qt/main_window.py:2032
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1894
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1894
 msgid "Failed to update password"
 msgstr "Failed to update password"
 
 #: gui/qt/main_window.py:1164 gui/qt/transaction_dialog.py:237 gui/text.py:176
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:192
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:554
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:192
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:554
 msgid "Fee"
 msgstr "Fee"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:196
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:196
 msgid "Fee manual edit"
 msgstr "Fee manual edit"
 
@@ -1910,27 +1910,27 @@ msgid "Feel free to add your email address if you are willing to provide further
 msgstr "Feel free to add your email address if you are willing to provide further detail, but note that it will appear in the relevant github issue."
 
 #: gui/qt/main_window.py:3076
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:24
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:24
 msgid "Fees"
 msgstr "Fees"
 
 #: gui/qt/main_window.py:3079
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:24
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:24
 msgid "Fiat"
 msgstr "Fiat"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:201
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:214
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:298
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:201
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:214
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:298
 msgid "Fiat amount"
 msgstr "Fiat amount"
 
 #: gui/qt/main_window.py:3070
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:359
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:359
 msgid "Fiat currency"
 msgstr "Fiat currency"
 
-#: gui/qt/util.py:341 ios/ElectronCash/electroncash_gui/ios_native/utils.py:307
+#: gui/qt/util.py:341 ios/ElectronSV/electronsv_gui/ios_native/utils.py:307
 msgid "File"
 msgstr "File"
 
@@ -1951,11 +1951,11 @@ msgid "Fixed rate: "
 msgstr "Fixed rate: "
 
 #: gui/qt/network_dialog.py:85
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:409
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:409
 msgid "Follow this branch"
 msgstr "Follow this branch"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:2152
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:2152
 msgid "For convenience, would you like to use Touch ID or Face ID to open this wallet?\n\n"
 "Your wallet password will still be used as a backup mechanism for when Touch/Face ID fails or is unavailable.\n\n"
 "Your wallet will continue to be protected and secure."
@@ -1976,8 +1976,8 @@ msgid "Format: address, amount"
 msgstr "Format: address, amount"
 
 #: gui/qt/address_list.py:190
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:638
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:904
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:638
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:904
 msgid "Freeze"
 msgstr "Freeze"
 
@@ -1994,11 +1994,11 @@ msgstr "From"
 msgid "From %d cosigners"
 msgstr "From %d cosigners"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:144
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:605
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:196
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:208
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:460
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:144
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:605
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:196
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:208
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:460
 msgid "Frozen"
 msgstr "Frozen"
 
@@ -2007,7 +2007,7 @@ msgid "Full 2FA enabled. This is not supported yet."
 msgstr "Full 2FA enabled. This is not supported yet."
 
 #: gui/kivy/uix/ui_screens/address.kv:84 gui/kivy/uix/screens.py:514
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:30
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:30
 msgid "Funded"
 msgstr "Funded"
 
@@ -2019,15 +2019,15 @@ msgstr "Generally, a fee of 1.0 sats/B is a good minimal rate to ensure your tra
 msgid "Generate a new random wallet"
 msgstr "Generate a new random wallet"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:323
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:323
 msgid "Generating seed..."
 msgstr "Generating seed..."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1508
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1508
 msgid "Generating your addresses..."
 msgstr "Generating your addresses..."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1280
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1280
 msgid "Generating your wallet..."
 msgstr "Generating your wallet..."
 
@@ -2035,12 +2035,12 @@ msgstr "Generating your wallet..."
 msgid "German"
 msgstr "German"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:32
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1552
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:32
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1552
 msgid "Get Started"
 msgstr "Get Started"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1534
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1534
 msgid "Get started now"
 msgstr ""
 
@@ -2057,10 +2057,10 @@ msgid "Hardware Keystore"
 msgstr "Hardware Keystore"
 
 #: gui/qt/utxo_list.py:33 gui/qt/network_dialog.py:70
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:276
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:280
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:327
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:598
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:276
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:280
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:327
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:598
 msgid "Height"
 msgstr "Height"
 
@@ -2076,11 +2076,11 @@ msgstr "Here is your master public key."
 msgid "Hide"
 msgstr "Hide"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:773
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:773
 msgid "Hide Download Banner"
 msgstr "Hide Download Banner"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:305
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:305
 msgid "Hide download banner"
 msgstr "Hide download banner"
 
@@ -2107,8 +2107,8 @@ msgstr "Homescreen"
 
 #: gui/kivy/uix/ui_screens/server.kv:19 gui/kivy/uix/ui_screens/proxy.kv:19
 #: gui/qt/network_dialog.py:135
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:280
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:330
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:280
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:330
 msgid "Host"
 msgstr "Host"
 
@@ -2149,12 +2149,12 @@ msgid "Identity"
 msgstr "Identity"
 
 #: gui/qt/network_dialog.py:220
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:503
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:503
 msgid "If auto-connect is enabled, Electron Cash will always use a server that is on the longest blockchain."
 msgstr "If auto-connect is enabled, Electron Cash will always use a server that is on the longest blockchain."
 
 #: gui/qt/network_dialog.py:221
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:504
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:504
 msgid "If it is disabled, you have to choose a server you want to use. Electron Cash will warn you if your server is lagging."
 msgstr "If it is disabled, you have to choose a server you want to use. Electron Cash will warn you if your server is lagging."
 
@@ -2167,7 +2167,7 @@ msgid "If unchecked, addresses are shown in legacy format"
 msgstr "If unchecked, addresses are shown in legacy format"
 
 #: lib/base_wizard.py:237
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:684
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:684
 msgid "If you are not sure what this is, leave this field unchanged."
 msgstr "If you are not sure what this is, leave this field unchanged."
 
@@ -2196,12 +2196,12 @@ msgid "If you specify OP_RETURN text, you may leave the 'Pay to' field blank."
 msgstr "If you specify OP_RETURN text, you may leave the 'Pay to' field blank."
 
 #: lib/base_wizard.py:239
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:686
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:686
 msgid "If you want the wallet to use Bitcoin Cash addresses use m/44'/145'/0'"
 msgstr "If you want the wallet to use Bitcoin Cash addresses use m/44'/145'/0'"
 
 #: lib/base_wizard.py:238
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:685
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:685
 msgid "If you want the wallet to use legacy Bitcoin addresses use m/44'/0'/0'"
 msgstr "If you want the wallet to use legacy Bitcoin addresses use m/44'/0'/0'"
 
@@ -2217,25 +2217,25 @@ msgstr "If your device is not detected on Windows, go to \"Settings\", \"Devices
 msgid "If your wallet contains funds, make sure you have saved its seed."
 msgstr "If your wallet contains funds, make sure you have saved its seed."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:667
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:493
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:513
-#: ios/ElectronCash/electroncash_gui/ios_native/utils.py:870
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:220
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:284
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:667
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:493
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:513
+#: ios/ElectronSV/electronsv_gui/ios_native/utils.py:870
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:220
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:284
 msgid "Image"
 msgstr "Image"
 
 #: gui/qt/main_window.py:527 gui/qt/main_window.py:529
 #: gui/qt/main_window.py:2664
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:34
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:852
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:972
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:34
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:852
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:972
 msgid "Import"
 msgstr "Import"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:816
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1541
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:816
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1541
 msgid "Import Addresses or Private Keys"
 msgstr ""
 
@@ -2243,7 +2243,7 @@ msgstr ""
 msgid "Import Bitcoin Addresses"
 msgstr "Import Bitcoin Addresses"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:853
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:853
 msgid "Import Bitcoin Cash Addresses or Private Keys"
 msgstr "Import Bitcoin Cash Addresses or Private Keys"
 
@@ -2271,19 +2271,19 @@ msgstr "Import private keys"
 msgid "Importing encrypted files is not supported."
 msgstr "Importing encrypted files is not supported."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1217
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1217
 msgid "Importing these addresses will add them to your watching-only wallet."
 msgstr "Importing these addresses will add them to your watching-only wallet."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1215
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1215
 msgid "Importing these addresses will create a watching-only wallet."
 msgstr "Importing these addresses will create a watching-only wallet."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1212
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1212
 msgid "Importing these keys will add addresses and keys to your spending wallet."
 msgstr "Importing these keys will add addresses and keys to your spending wallet."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1210
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1210
 msgid "Importing these keys will create a fully capable spending wallet."
 msgstr "Importing these keys will create a fully capable spending wallet."
 
@@ -2321,8 +2321,8 @@ msgstr "Indonesian"
 
 #: gui/qt/main_window.py:416 gui/qt/util.py:199
 #: plugins/keepkey/qt_generic.py:579 plugins/trezor/qt.py:605
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:507
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1044
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:507
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1044
 msgid "Information"
 msgstr "Information"
 
@@ -2335,8 +2335,8 @@ msgid "Initialized"
 msgstr "Initialized"
 
 #: gui/qt/main_window.py:3242
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:213
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:272
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:213
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:272
 msgid "Input amount"
 msgstr "Input amount"
 
@@ -2345,7 +2345,7 @@ msgid "Input raw transaction"
 msgstr "Input raw transaction"
 
 #: gui/qt/transaction_dialog.py:252
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:99
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:99
 msgid "Inputs"
 msgstr "Inputs"
 
@@ -2368,8 +2368,8 @@ msgid "Installed &Plugins"
 msgstr "Installed &Plugins"
 
 #: gui/qt/main_window.py:1489
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:461
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:754
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:461
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:754
 msgid "Insufficient funds"
 msgstr "Insufficient funds"
 
@@ -2377,19 +2377,19 @@ msgstr "Insufficient funds"
 msgid "Integration"
 msgstr "Integration"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1089
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1089
 msgid "Invalid"
 msgstr "Invalid"
 
 #: gui/qt/main_window.py:1866
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:471
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:469
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:967
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:471
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:469
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:967
 msgid "Invalid Address"
 msgstr "Invalid Address"
 
 #: gui/qt/main_window.py:1468 gui/text.py:329 gui/stdio.py:172
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:985
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:985
 msgid "Invalid Amount"
 msgstr "Invalid Amount"
 
@@ -2398,8 +2398,8 @@ msgid "Invalid Bitcoin Address"
 msgstr "Invalid Bitcoin Address"
 
 #: gui/qt/main_window.py:2188 gui/qt/main_window.py:2208
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:233
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:277
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:233
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:277
 msgid "Invalid Bitcoin Cash address."
 msgstr "Invalid Bitcoin Cash address."
 
@@ -2415,9 +2415,9 @@ msgstr "Invalid Fee"
 msgid "Invalid PIN"
 msgstr "Invalid PIN"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:527
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:116
-#: ios/ElectronCash/electroncash_gui/ios_native/addrconv.py:105
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:527
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:116
+#: ios/ElectronSV/electronsv_gui/ios_native/addrconv.py:105
 msgid "Invalid QR Code"
 msgstr "Invalid QR Code"
 
@@ -2426,7 +2426,7 @@ msgid "Invalid amount"
 msgstr "Invalid amount"
 
 #: gui/qt/main_window.py:1687
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1125
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1125
 msgid "Invalid bitcoincash URI:"
 msgstr "Invalid bitcoincash URI:"
 
@@ -2434,7 +2434,7 @@ msgstr "Invalid bitcoincash URI:"
 msgid "Invalid lines found:"
 msgstr "Invalid lines found:"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:557
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:557
 msgid "Invalid name, please try again."
 msgstr "Invalid name, please try again."
 
@@ -2454,7 +2454,7 @@ msgstr "Invoice saved as "
 msgid "Invoices"
 msgstr "Invoices"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:675
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:675
 msgid "It appears the derivation you specified is invalid. Please try again"
 msgstr "It appears the derivation you specified is invalid. Please try again"
 
@@ -2544,7 +2544,7 @@ msgid "Ledger wallet"
 msgstr "Ledger wallet"
 
 #: gui/qt/main_window.py:1774
-#: ios/ElectronCash/electroncash_gui/ios_native/addrconv.py:62
+#: ios/ElectronSV/electronsv_gui/ios_native/addrconv.py:62
 msgid "Legacy address"
 msgstr "Legacy address"
 
@@ -2580,7 +2580,7 @@ msgstr "Load transaction"
 msgid "Loading backup..."
 msgstr "Loading backup..."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:560
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:560
 msgid "Locktime"
 msgstr "Locktime"
 
@@ -2604,12 +2604,12 @@ msgstr "Make sure you install it with python3"
 msgid "Make sure you own the seed phrase or the private keys, before you request Bitcoin Cash to be sent to this wallet."
 msgstr "Make sure you own the seed phrase or the private keys, before you request Bitcoin Cash to be sent to this wallet."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:666
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:666
 msgid "Manual fee"
 msgstr "Manual fee"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:34
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:845
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:34
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:845
 msgid "Master Key"
 msgstr ""
 
@@ -2629,16 +2629,16 @@ msgid "Matrix"
 msgstr "Matrix"
 
 #: gui/qt/main_window.py:1154
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:189
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:189
 msgid "Max"
 msgstr "Max"
 
 #: gui/qt/main_window.py:3269
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:464
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:464
 msgid "Max fee exceeded"
 msgstr "Max fee exceeded"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:261
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:261
 msgid "Max static fee"
 msgstr "Max static fee"
 
@@ -2655,7 +2655,7 @@ msgid "Method:"
 msgstr "Method:"
 
 #: gui/kivy/uix/screens.py:286 gui/qt/main_window.py:1513
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:778
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:778
 msgid "Mining fee"
 msgstr "Mining fee"
 
@@ -2671,7 +2671,7 @@ msgstr "Mobile - {}"
 msgid "Mobile pairing options"
 msgstr "Mobile pairing options"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:239
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:239
 msgid "Modify wallet password & encryption settings"
 msgstr "Modify wallet password & encryption settings"
 
@@ -2683,15 +2683,15 @@ msgstr "Multi-Signature Wallet"
 msgid "Multi-signature wallet"
 msgstr "Multi-signature wallet"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:197
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:197
 msgid "My Change Address"
 msgstr "My Change Address"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:199
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:199
 msgid "My Receiving Address"
 msgstr "My Receiving Address"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:24
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:24
 msgid "My Wallet"
 msgstr ""
 
@@ -2701,12 +2701,12 @@ msgstr "NOT DEVICE PIN - see above"
 
 #: gui/qt/external_plugins_window.py:72 gui/qt/main_window.py:2061
 #: gui/qt/contact_list.py:43
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:571
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:350
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:571
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:350
 msgid "Name"
 msgstr "Name"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:474
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:474
 msgid "Name is empty"
 msgstr "Name is empty"
 
@@ -2720,27 +2720,27 @@ msgstr "Name this {}.  If you have mutiple devices their labels help distinguish
 
 #: gui/kivy/uix/ui_screens/network.kv:3 gui/kivy/main.kv:463
 #: gui/qt/main_window.py:2005 gui/qt/network_dialog.py:46 gui/text.py:150
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1955
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1955
 msgid "Network"
 msgstr "Network"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:233
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:233
 msgid "Network Settings"
 msgstr "Network Settings"
 
 #: gui/kivy/uix/screens.py:444 gui/qt/invoice_list.py:49
 #: gui/qt/exception_window.py:101 gui/qt/request_list.py:56 gui/qt/util.py:43
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:288
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:288
 msgid "Never"
 msgstr "Never"
 
 #: gui/qt/seed_dialog.py:44
-#: ios/ElectronCash/electroncash_gui/ios_native/seed_dialog.py:89
+#: ios/ElectronSV/electronsv_gui/ios_native/seed_dialog.py:89
 msgid "Never disclose your seed."
 msgstr "Never disclose your seed."
 
 #: gui/qt/seed_dialog.py:45
-#: ios/ElectronCash/electroncash_gui/ios_native/seed_dialog.py:90
+#: ios/ElectronSV/electronsv_gui/ios_native/seed_dialog.py:90
 msgid "Never type it on a website."
 msgstr "Never type it on a website."
 
@@ -2749,8 +2749,8 @@ msgid "New"
 msgstr "New"
 
 #: gui/qt/main_window.py:2051 gui/qt/main_window.py:2053
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:565
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:337
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:565
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:337
 msgid "New Contact"
 msgstr "New Contact"
 
@@ -2758,16 +2758,16 @@ msgstr "New Contact"
 msgid "New Password:"
 msgstr "New Password:"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:809
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:809
 msgid "New Wallet"
 msgstr ""
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1338
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1338
 msgid "New Wallet Created"
 msgstr "New Wallet Created"
 
 #: gui/qt/contact_list.py:69
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:145
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:145
 msgid "New contact"
 msgstr "New contact"
 
@@ -2776,26 +2776,26 @@ msgid "New request added to your list."
 msgstr "New request added to your list."
 
 #: gui/qt/main_window.py:628
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:745
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:745
 msgid "New transaction received: {}"
 msgstr "New transaction received: {}"
 
 #: gui/qt/installwizard.py:117
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:33
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:166
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:291
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:391
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:832
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:33
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:166
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:291
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:391
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:832
 msgid "Next"
 msgstr "Next"
 
 #: plugins/keepkey/qt_generic.py:325 plugins/trezor/qt.py:340
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1340
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:777
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:779
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1037
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:2149
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:2151
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1340
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:777
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:779
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1037
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:2149
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:2151
 msgid "No"
 msgstr "No"
 
@@ -2807,16 +2807,16 @@ msgstr "No Amount"
 msgid "No Description"
 msgstr "No Description"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:429
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:429
 msgid "No Match"
 msgstr "No Match"
 
 #: gui/kivy/main_window.py:640
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1311
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1311
 msgid "No Wallet"
 msgstr "No Wallet"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1312
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1312
 msgid "No Wallet Is Open"
 msgstr "No Wallet Is Open"
 
@@ -2824,11 +2824,11 @@ msgstr "No Wallet Is Open"
 msgid "No address matching your search"
 msgstr "No address matching your search"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:431
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:431
 msgid "No addresses match the specified criteria"
 msgstr "No addresses match the specified criteria"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:374
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:374
 msgid "No coins"
 msgstr "No coins"
 
@@ -2861,7 +2861,7 @@ msgid "No inputs found. (Note that inputs need to be confirmed)"
 msgstr "No inputs found. (Note that inputs need to be confirmed)"
 
 #: gui/qt/main_window.py:979
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:395
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:395
 msgid "No message or amount"
 msgstr "No message or amount"
 
@@ -2870,20 +2870,20 @@ msgid "No more addresses in your wallet."
 msgstr "No more addresses in your wallet."
 
 #: gui/qt/main_window.py:1463
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:980
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:980
 msgid "No outputs"
 msgstr "No outputs"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:311
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:311
 msgid "No payment requests found. Feel free to create one."
 msgstr ""
 
 #: gui/qt/main_window.py:975
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:390
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:390
 msgid "No receiving address"
 msgstr "No receiving address"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/history.py:492
+#: ios/ElectronSV/electronsv_gui/ios_native/history.py:492
 msgid "No transactions"
 msgstr "No transactions"
 
@@ -2891,11 +2891,11 @@ msgstr "No transactions"
 msgid "No transactions found for this seed"
 msgstr "No transactions found for this seed"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/history.py:494
+#: ios/ElectronSV/electronsv_gui/ios_native/history.py:494
 msgid "No transactions were found on the blockchain."
 msgstr "No transactions were found on the blockchain."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1219
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1219
 msgid "No valid items remain. Cannot proceed -- go back and try again."
 msgstr "No valid items remain. Cannot proceed -- go back and try again."
 
@@ -2903,11 +2903,11 @@ msgstr "No valid items remain. Cannot proceed -- go back and try again."
 #: gui/kivy/uix/dialogs/fx_dialog.py:98 gui/kivy/uix/dialogs/fx_dialog.py:103
 #: gui/kivy/uix/dialogs/settings.py:141 gui/kivy/uix/dialogs/settings.py:208
 #: gui/qt/main_window.py:3002 gui/qt/network_dialog.py:346
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:111
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:363
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:392
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:406
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:234
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:111
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:363
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:392
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:406
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:234
 msgid "None"
 msgstr "None"
 
@@ -2915,7 +2915,7 @@ msgstr "None"
 msgid "Norwegian"
 msgstr "Norwegian"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:600
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:600
 msgid "Not Deleted"
 msgstr "Not Deleted"
 
@@ -2934,8 +2934,8 @@ msgstr "Not a text file"
 #: gui/kivy/main_window.py:831 gui/kivy/uix/ui_screens/network.kv:14
 #: gui/qt/main_window.py:798 gui/qt/network_dialog.py:357 gui/text.py:143
 #: gui/stdio.py:122
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:258
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:683
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:258
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:683
 msgid "Not connected"
 msgstr "Not connected"
 
@@ -2969,18 +2969,18 @@ msgstr "Number of zeros displayed after the decimal point. For example, if this 
 
 #: gui/kivy/uix/ui_screens/server.kv:57 gui/kivy/uix/ui_screens/proxy.kv:64
 #: gui/qt/util.py:157 plugins/audio_modem/qt.py:65
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:584
-#: ios/ElectronCash/electroncash_gui/ios_native/seed_dialog.py:87
-#: ios/ElectronCash/electroncash_gui/ios_native/password_dialog.py:288
-#: ios/ElectronCash/electroncash_gui/ios_native/password_dialog.py:351
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:467
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:481
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:500
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:521
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:538
-#: ios/ElectronCash/electroncash_gui/ios_native/utils.py:358
-#: ios/ElectronCash/electroncash_gui/ios_native/utils.py:536
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1045
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:584
+#: ios/ElectronSV/electronsv_gui/ios_native/seed_dialog.py:87
+#: ios/ElectronSV/electronsv_gui/ios_native/password_dialog.py:288
+#: ios/ElectronSV/electronsv_gui/ios_native/password_dialog.py:351
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:467
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:481
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:500
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:521
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:538
+#: ios/ElectronSV/electronsv_gui/ios_native/utils.py:358
+#: ios/ElectronSV/electronsv_gui/ios_native/utils.py:536
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1045
 msgid "OK"
 msgstr "OK"
 
@@ -2997,11 +2997,11 @@ msgid "OP_RETURN message too large, needs to be under 220 bytes"
 msgstr "OP_RETURN message too large, needs to be under 220 bytes"
 
 #: gui/kivy/main_window.py:643 gui/qt/main_window.py:766 gui/qt/__init__.py:168
-#: gui/text.py:131 ios/ElectronCash/electroncash_gui/ios_native/wallets.py:148
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:231
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:608
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:613
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:687
+#: gui/text.py:131 ios/ElectronSV/electronsv_gui/ios_native/wallets.py:148
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:231
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:608
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:613
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:687
 msgid "Offline"
 msgstr "Offline"
 
@@ -3013,13 +3013,13 @@ msgstr "On Linux, you might have to add a new permission to your udev rules."
 msgid "One output per line."
 msgstr "One output per line."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:139
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:642
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:139
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:642
 msgid "Online"
 msgstr "Online"
 
 #: gui/qt/main_window.py:2907
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:344
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:344
 msgid "Online Block Explorer"
 msgstr "Online Block Explorer"
 
@@ -3027,11 +3027,11 @@ msgstr "Online Block Explorer"
 msgid "Only wipe a device if you have the recovery seed written down and the device wallet(s) are empty, otherwise the bitcoins will be lost forever."
 msgstr "Only wipe a device if you have the recovery seed written down and the device wallet(s) are empty, otherwise the bitcoins will be lost forever."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1340
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1340
 msgid "Open New Wallet"
 msgstr "Open New Wallet"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:618
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:618
 msgid "Open Wallet"
 msgstr "Open Wallet"
 
@@ -3051,8 +3051,8 @@ msgstr "OpenAlias"
 msgid "OpenAlias record, used to receive coins and to sign payment requests."
 msgstr "OpenAlias record, used to receive coins and to sign payment requests."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1579
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1786
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1579
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1786
 msgid "Opening encrypted wallet: '{}'"
 msgstr "Opening encrypted wallet: '{}'"
 
@@ -3065,12 +3065,12 @@ msgid "Optional Features"
 msgstr "Optional Features"
 
 #: gui/qt/seed_dialog.py:145
-#: ios/ElectronCash/electroncash_gui/ios_native/seed_dialog.py:144
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:232
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:788
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:189
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:479
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:924
+#: ios/ElectronSV/electronsv_gui/ios_native/seed_dialog.py:144
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:232
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:788
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:189
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:479
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:924
 msgid "Options"
 msgstr "Options"
 
@@ -3078,8 +3078,8 @@ msgstr "Options"
 msgid "Outdated {} firmware for device labelled {}. Please download the updated firmware from {}"
 msgstr "Outdated {} firmware for device labelled {}. Please download the updated firmware from {}"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:190
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:480
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:190
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:480
 msgid "Output"
 msgstr "Output"
 
@@ -3092,7 +3092,7 @@ msgid "Output point"
 msgstr "Output point"
 
 #: gui/kivy/uix/ui_screens/invoice.kv:62 gui/qt/transaction_dialog.py:259
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:100
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:100
 msgid "Outputs"
 msgstr "Outputs"
 
@@ -3150,21 +3150,21 @@ msgstr "Passphrases allow you to access new wallets, each hidden behind a partic
 msgid "Password"
 msgstr "Password"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1572
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1572
 msgid "Password Incorrect"
 msgstr "Password Incorrect"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1580
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1580
 msgid "Password Required"
 msgstr "Password Required"
 
 #: gui/qt/password_dialog.py:147
-#: ios/ElectronCash/electroncash_gui/ios_native/password_dialog.py:193
+#: ios/ElectronSV/electronsv_gui/ios_native/password_dialog.py:193
 msgid "Password Strength"
 msgstr "Password Strength"
 
 #: gui/qt/main_window.py:2034
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1896
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1896
 msgid "Password is disabled, this wallet is not protected"
 msgstr "Password is disabled, this wallet is not protected"
 
@@ -3179,7 +3179,7 @@ msgid "Password must have less than 64 characters."
 msgstr "Password must have less than 64 characters."
 
 #: gui/qt/main_window.py:2034
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1896
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1896
 msgid "Password was updated successfully"
 msgstr "Password was updated successfully"
 
@@ -3191,7 +3191,7 @@ msgstr "Password:"
 msgid "Paste"
 msgstr "Paste"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:573
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:573
 msgid "Paste an address or use QR"
 msgstr "Paste an address or use QR"
 
@@ -3204,9 +3204,9 @@ msgid "Pay Now"
 msgstr "Pay Now"
 
 #: gui/qt/main_window.py:1100 gui/qt/contact_list.py:81 gui/text.py:173
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:606
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:868
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:141
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:606
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:868
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:141
 msgid "Pay to"
 msgstr "Pay to"
 
@@ -3227,12 +3227,12 @@ msgstr "Payment received"
 msgid "Payment request has expired"
 msgstr "Payment request has expired"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:426
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:426
 msgid "Payment request saved"
 msgstr "Payment request saved"
 
 #: gui/kivy/main_window.py:817 gui/qt/main_window.py:1611 gui/text.py:356
-#: gui/stdio.py:205 ios/ElectronCash/electroncash_gui/ios_native/gui.py:1863
+#: gui/stdio.py:205 ios/ElectronSV/electronsv_gui/ios_native/gui.py:1863
 msgid "Payment sent."
 msgstr "Payment sent."
 
@@ -3245,7 +3245,7 @@ msgid "Perhaps it is encrypted..."
 msgstr "Perhaps it is encrypted..."
 
 #: gui/qt/exception_window.py:83
-#: ios/ElectronCash/electroncash_gui/ios_native/crashreporter.py:56
+#: ios/ElectronSV/electronsv_gui/ios_native/crashreporter.py:56
 msgid "Please briefly describe what led to the error (optional):"
 msgstr "Please briefly describe what led to the error (optional):"
 
@@ -3273,7 +3273,7 @@ msgstr "Please enter the master public key (xpub) of your cosigner."
 msgid "Please enter the master public key of cosigner #{}:"
 msgstr "OpenAlias"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:571
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:571
 msgid "Please enter the new name for this wallet:"
 msgstr "Please enter the new name for this wallet:"
 
@@ -3307,19 +3307,19 @@ msgstr "Please install the relevant libraries (eg python-trezor for Trezor)."
 msgid "Please paste your cosigners master public key, or scan it using the camera button."
 msgstr "Please paste your cosigners master public key, or scan it using the camera button."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:301
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:301
 msgid "Please provide a public key or select an address"
 msgstr "Please provide a public key or select an address"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:327
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:327
 msgid "Please provide a public key to use for decryption"
 msgstr "Please provide a public key to use for decryption"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:271
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:271
 msgid "Please provide both a signature and a message to verify"
 msgstr "Please provide both a signature and a message to verify"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:323
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:323
 msgid "Please provide cyphertext to decrypt"
 msgstr "Please provide cyphertext to decrypt"
 
@@ -3336,7 +3336,7 @@ msgid "Please retype your seed phrase, to confirm that you properly saved it"
 msgstr "Please retype your seed phrase, to confirm that you properly saved it"
 
 #: gui/qt/seed_dialog.py:38
-#: ios/ElectronCash/electroncash_gui/ios_native/seed_dialog.py:84
+#: ios/ElectronSV/electronsv_gui/ios_native/seed_dialog.py:84
 #, python-format
 msgid "Please save these %d words on paper (order is important). "
 msgstr "Please save these %d words on paper (order is important). "
@@ -3353,7 +3353,7 @@ msgstr "Please select which {} device to use:"
 msgid "Please share it with your cosigners."
 msgstr "Please share it with your cosigners."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:931
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:931
 msgid "Please specify a master key to continue. Valid keys are long strings starting with either xpub/ypub/zpub or xprv/yprv/zprv."
 msgstr "Please specify a master key to continue. Valid keys are long strings starting with either xpub/ypub/zpub or xprv/yprv/zprv."
 
@@ -3381,8 +3381,8 @@ msgstr "Please update to v0.1.27 or greater"
 msgid "Please use the existing requests first."
 msgstr "Please use the existing requests first."
 
-#: gui/qt/util.py:226 ios/ElectronCash/electroncash_gui/ios_native/utils.py:394
-#: ios/ElectronCash/electroncash_gui/ios_native/utils.py:396
+#: gui/qt/util.py:226 ios/ElectronSV/electronsv_gui/ios_native/utils.py:394
+#: ios/ElectronSV/electronsv_gui/ios_native/utils.py:396
 msgid "Please wait"
 msgstr "Please wait"
 
@@ -3391,7 +3391,7 @@ msgstr "Please wait"
 msgid "Please wait..."
 msgstr "Please wait..."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:26
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:26
 msgid "Please write your seed phrase down, as it's the only way to recover your funds if you forget your password or your device is stolen."
 msgstr ""
 
@@ -3425,7 +3425,7 @@ msgstr "Polish"
 
 #: gui/kivy/uix/ui_screens/server.kv:31 gui/kivy/uix/ui_screens/proxy.kv:28
 #: gui/qt/network_dialog.py:135
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:330
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:330
 msgid "Port"
 msgstr "Port"
 
@@ -3437,7 +3437,7 @@ msgstr "Portuguese"
 msgid "Posts a PERMANENT note to the BCH blockchain as part of this transaction."
 msgstr "Posts a PERMANENT note to the BCH blockchain as part of this transaction."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1600
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1600
 msgid "Potentially Unsafe Operation"
 msgstr "Potentially Unsafe Operation"
 
@@ -3463,19 +3463,19 @@ msgid "Press again to exit"
 msgstr "Press again to exit"
 
 #: gui/qt/main_window.py:1198
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:235
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:235
 msgid "Preview"
 msgstr "Preview"
 
 #: gui/kivy/uix/ui_screens/invoice.kv:55
-#: ios/ElectronCash/electroncash_gui/ios_native/private_key_dialog.py:25
+#: ios/ElectronSV/electronsv_gui/ios_native/private_key_dialog.py:25
 msgid "Private Key"
 msgstr "Private Key"
 
 #: gui/qt/main_window.py:2158 gui/qt/main_window.py:2163
 #: gui/qt/address_list.py:176
-#: ios/ElectronCash/electroncash_gui/ios_native/private_key_dialog.py:70
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:913
+#: ios/ElectronSV/electronsv_gui/ios_native/private_key_dialog.py:70
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:913
 msgid "Private key"
 msgstr "Private key"
 
@@ -3488,7 +3488,7 @@ msgid "Private keys exported."
 msgstr "Private keys exported."
 
 #: gui/qt/main_window.py:1540
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:808
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:808
 msgid "Proceed?"
 msgstr "Proceed?"
 
@@ -3538,7 +3538,7 @@ msgid "Pruned transaction outputs"
 msgstr "Pruned transaction outputs"
 
 #: gui/qt/main_window.py:2296
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:896
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:896
 msgid "Public key"
 msgstr "Public key"
 
@@ -3546,17 +3546,17 @@ msgstr "Public key"
 msgid "Public keys"
 msgstr "Public keys"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:502
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:357
-#: ios/ElectronCash/electroncash_gui/ios_native/addrconv.py:85
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:884
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:502
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:357
+#: ios/ElectronSV/electronsv_gui/ios_native/addrconv.py:85
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:884
 msgid "QR Not Avilable"
 msgstr "QR Not Avilable"
 
 #: gui/qt/main_window.py:2141
-#: ios/ElectronCash/electroncash_gui/ios_native/private_key_dialog.py:100
-#: ios/ElectronCash/electroncash_gui/ios_native/addrconv.py:95
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:720
+#: ios/ElectronSV/electronsv_gui/ios_native/private_key_dialog.py:100
+#: ios/ElectronSV/electronsv_gui/ios_native/addrconv.py:95
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:720
 msgid "QR code"
 msgstr "QR code"
 
@@ -3569,7 +3569,7 @@ msgid "QR code saved to file"
 msgstr "QR code saved to file"
 
 #: gui/kivy/uix/dialogs/question.py:51
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1025
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1025
 msgid "Question"
 msgstr "Question"
 
@@ -3608,8 +3608,8 @@ msgid "Read from microphone"
 msgstr "Read from microphone"
 
 #: gui/kivy/main.kv:404 gui/qt/main_window.py:157 gui/text.py:64
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:73
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:306
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:73
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:306
 msgid "Receive"
 msgstr "Receive"
 
@@ -3618,17 +3618,17 @@ msgid "Received"
 msgstr "Received"
 
 #: gui/kivy/uix/ui_screens/address.kv:73 gui/qt/address_list.py:95
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:608
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:31
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:608
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:31
 msgid "Receiving"
 msgstr "Receiving"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:203
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:203
 msgid "Receiving Address"
 msgstr "Receiving Address"
 
 #: gui/qt/main_window.py:848
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:198
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:198
 msgid "Receiving address"
 msgstr "Receiving address"
 
@@ -3653,19 +3653,19 @@ msgid "Recovery successful"
 msgstr "Recovery successful"
 
 #: gui/qt/main_window.py:2167 gui/qt/address_dialog.py:87
-#: ios/ElectronCash/electroncash_gui/ios_native/private_key_dialog.py:75
+#: ios/ElectronSV/electronsv_gui/ios_native/private_key_dialog.py:75
 msgid "Redeem Script"
 msgstr "Redeem Script"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:27
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:27
 msgid "Reenter your seed phrase"
 msgstr ""
 
 #: gui/qt/main_window.py:1371
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:298
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:708
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:928
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1147
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:298
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:708
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:928
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1147
 msgid "Remove"
 msgstr "Remove"
 
@@ -3677,20 +3677,20 @@ msgstr "Remove from wallet"
 msgid "Remove {} from your list of contacts?"
 msgstr "Remove {} from your list of contacts?"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:572
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:572
 msgid "Rename"
 msgstr "Rename"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:570
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:619
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:570
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:619
 msgid "Rename Wallet"
 msgstr "Rename Wallet"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/crashreporter.py:55
+#: ios/ElectronSV/electronsv_gui/ios_native/crashreporter.py:55
 msgid "Report Contents"
 msgstr "Report Contents"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/crashreporter.py:113
+#: ios/ElectronSV/electronsv_gui/ios_native/crashreporter.py:113
 msgid "Report Sent"
 msgstr "Report Sent"
 
@@ -3702,7 +3702,7 @@ msgstr "Reporting Bugs"
 msgid "Request"
 msgstr "Request"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:489
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:489
 msgid "Request URI"
 msgstr "Request URI"
 
@@ -3719,7 +3719,7 @@ msgid "Request expired"
 msgstr "Request expired"
 
 #: gui/qt/main_window.py:881
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:202
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:202
 msgid "Request expires"
 msgstr "Request expires"
 
@@ -3728,8 +3728,8 @@ msgid "Request paid"
 msgstr "Request paid"
 
 #: gui/qt/address_list.py:174
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:632
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:878
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:632
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:878
 msgid "Request payment"
 msgstr "Request payment"
 
@@ -3746,7 +3746,7 @@ msgid "Request sent."
 msgstr "Request sent."
 
 #: gui/qt/main_window.py:861
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:200
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:200
 msgid "Requested amount"
 msgstr "Requested amount"
 
@@ -3756,8 +3756,8 @@ msgid "Requestor"
 msgstr "Requestor"
 
 #: gui/qt/main_window.py:906
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:722
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:65
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:722
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:65
 msgid "Requests"
 msgstr "Requests"
 
@@ -3778,8 +3778,8 @@ msgstr "Requires"
 msgid "Reset"
 msgstr "Reset"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:815
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1540
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:815
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1540
 msgid "Restore from Seed"
 msgstr ""
 
@@ -3807,18 +3807,18 @@ msgstr "SSL certificate"
 msgid "SSL certificate used to sign payment requests."
 msgstr "SSL certificate used to sign payment requests."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:572
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:572
 msgid "Satoshi Nakamoto"
 msgstr "Satoshi Nakamoto"
 
 #: gui/qt/main_window.py:889 gui/qt/main_window.py:1928
 #: gui/qt/qrcodewidget.py:123 gui/qt/transaction_dialog.py:102
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:268
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:268
 msgid "Save"
 msgstr "Save"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:34
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:266
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:34
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:266
 msgid "Save Wallet"
 msgstr ""
 
@@ -3834,7 +3834,7 @@ msgstr "Save invoice to file"
 msgid "Save your wallet labels on a remote server, and synchronize them across multiple devices where you use Electron Cash."
 msgstr "Save your wallet labels on a remote server, and synchronize them across multiple devices where you use Electron Cash."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:620
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:620
 msgid "Save/Export Wallet"
 msgstr "Save/Export Wallet"
 
@@ -3847,7 +3847,7 @@ msgid "Scrambled words"
 msgstr "Scrambled words"
 
 #: gui/qt/main_window.py:2080 gui/qt/main_window.py:2162
-#: ios/ElectronCash/electroncash_gui/ios_native/private_key_dialog.py:64
+#: ios/ElectronSV/electronsv_gui/ios_native/private_key_dialog.py:64
 msgid "Script type"
 msgstr "Script type"
 
@@ -3855,11 +3855,11 @@ msgstr "Script type"
 msgid "Search"
 msgstr "Search"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1699
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1699
 msgid "Secure Enclave Key Reset"
 msgstr ""
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1914
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1914
 msgid "Secure Enclave Unavailable"
 msgstr "Secure Enclave Unavailable"
 
@@ -3873,8 +3873,8 @@ msgstr "Security Warning"
 
 #: gui/kivy/main_window.py:901 gui/qt/main_window.py:2003
 #: gui/qt/seed_dialog.py:203
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:33
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:289
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:33
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:289
 msgid "Seed"
 msgstr "Seed"
 
@@ -3882,7 +3882,7 @@ msgstr "Seed"
 msgid "Seed Entered"
 msgstr "Seed Entered"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:389
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:389
 msgid "Seed Entry"
 msgstr ""
 
@@ -3926,7 +3926,7 @@ msgstr "Select server automatically"
 msgid "Select server manually"
 msgstr "Select server manually"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:319
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:319
 msgid "Select when the payment request should expire"
 msgstr "Select when the payment request should expire"
 
@@ -3955,9 +3955,9 @@ msgid "Select your transaction file"
 msgstr "Select your transaction file"
 
 #: gui/kivy/main.kv:396 gui/qt/main_window.py:156 gui/qt/main_window.py:1200
-#: gui/text.py:64 ios/ElectronCash/electroncash_gui/ios_native/send.py:66
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:233
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:305
+#: gui/text.py:64 ios/ElectronSV/electronsv_gui/ios_native/send.py:66
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:233
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:305
 msgid "Send"
 msgstr "Send"
 
@@ -3989,7 +3989,7 @@ msgstr "Send via e-mail"
 msgid "Sending"
 msgstr "Sending"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/crashreporter.py:117
+#: ios/ElectronSV/electronsv_gui/ios_native/crashreporter.py:117
 msgid "Sending Report..."
 msgstr "Sending Report..."
 
@@ -4008,7 +4008,7 @@ msgid "Server hosting your email acount"
 msgstr "Server hosting your email acount"
 
 #: gui/qt/main_window.py:779
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:635
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:635
 msgid "Server is lagging ({} blocks)"
 msgstr "Server is lagging ({} blocks)"
 
@@ -4035,7 +4035,7 @@ msgstr "Set a PIN"
 #: gui/kivy/main.kv:466 gui/text.py:150 plugins/email_requests/qt.py:177
 #: plugins/keepkey/qt_generic.py:580 plugins/labels/qt.py:30
 #: plugins/audio_modem/qt.py:46 plugins/trezor/qt.py:606
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:56
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:56
 msgid "Settings"
 msgstr "Settings"
 
@@ -4047,60 +4047,60 @@ msgstr "Share"
 msgid "Share Bitcoin Request"
 msgstr "Share Bitcoin Request"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:501
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:501
 msgid "Share Request"
 msgstr "Share Request"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:497
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:497
 msgid "Share as QR Image..."
 msgstr "Share as QR Image..."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:496
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:496
 msgid "Share as URI..."
 msgstr "Share as URI..."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:204
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:204
 msgid "Share request"
 msgstr "Share request"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:877
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:185
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:888
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:877
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:185
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:888
 msgid "Share/Save QR..."
 msgstr "Share/Save QR..."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:784
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:784
 msgid "Share/Save..."
 msgstr "Share/Save..."
 
 #: gui/qt/main_window.py:251 gui/qt/main_window.py:539
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:183
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:184
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:183
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:184
 msgid "Show"
 msgstr "Show"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:292
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:292
 msgid "Show Address QR"
 msgstr "Show Address QR"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/history.py:448
+#: ios/ElectronSV/electronsv_gui/ios_native/history.py:448
 msgid "Show All Transactions"
 msgstr "Show All Transactions"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:317
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:317
 msgid "Show Coin Info"
 msgstr "Show Coin Info"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:885
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:885
 msgid "Show Coins (UTXOs)"
 msgstr "Show Coins (UTXOs)"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:340
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:340
 msgid "Show Contact"
 msgstr "Show Contact"
 
 #: gui/qt/main_window.py:3072
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:379
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:379
 msgid "Show Fiat balance for addresses"
 msgstr "Show Fiat balance for addresses"
 
@@ -4108,14 +4108,14 @@ msgstr "Show Fiat balance for addresses"
 msgid "Show QR Code"
 msgstr "Show QR Code"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:305
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:305
 msgid "Show Script QR"
 msgstr "Show Script QR"
 
 #: gui/qt/transaction_dialog.py:78 gui/qt/qrtextedit.py:16
 #: gui/qt/qrtextedit.py:30
-#: ios/ElectronCash/electroncash_gui/ios_native/seed_dialog.py:149
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:778
+#: ios/ElectronSV/electronsv_gui/ios_native/seed_dialog.py:149
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:778
 msgid "Show as QR code"
 msgstr "Show as QR code"
 
@@ -4124,11 +4124,11 @@ msgid "Show fee edit box in send tab."
 msgstr "Show fee edit box in send tab."
 
 #: gui/qt/main_window.py:3071
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:370
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:370
 msgid "Show history rates"
 msgstr "Show history rates"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:294
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:294
 msgid "Show input hash QR"
 msgstr "Show input hash QR"
 
@@ -4158,16 +4158,16 @@ msgid "Showing address ..."
 msgstr "Showing address ..."
 
 #: gui/qt/main_window.py:2246 gui/qt/transaction_dialog.py:96
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:433
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:433
 msgid "Sign"
 msgstr "Sign"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:37
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:37
 msgid "Sign/Verify Message"
 msgstr "Sign/Verify Message"
 
 #: gui/qt/main_window.py:2224
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:917
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:917
 msgid "Sign/verify Message"
 msgstr "Sign/verify Message"
 
@@ -4181,7 +4181,7 @@ msgid "Signature"
 msgstr "Signature"
 
 #: gui/qt/main_window.py:2219
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:289
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:289
 msgid "Signature verified"
 msgstr "Signature verified"
 
@@ -4202,18 +4202,18 @@ msgid "Signing message ..."
 msgstr "Signing message ..."
 
 #: gui/qt/main_window.py:1575 plugins/digitalbitbox/digitalbitbox.py:586
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1820
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1820
 msgid "Signing transaction..."
 msgstr "Signing transaction..."
 
 #: gui/qt/main_window.py:2175
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:236
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:236
 msgid "Signing with an address actually means signing with the corresponding private key, and verifying with the corresponding public key. The address you have entered does not have a unique public key, so these operations cannot be performed."
 msgstr "Signing with an address actually means signing with the corresponding private key, and verifying with the corresponding public key. The address you have entered does not have a unique public key, so these operations cannot be performed."
 
 #: gui/qt/transaction_dialog.py:236
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:351
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:548
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:351
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:548
 msgid "Size:"
 msgstr "Size:"
 
@@ -4226,17 +4226,17 @@ msgid "Slovenian"
 msgstr "Slovenian"
 
 #: gui/qt/exception_window.py:73
-#: ios/ElectronCash/electroncash_gui/ios_native/crashreporter.py:58
+#: ios/ElectronSV/electronsv_gui/ios_native/crashreporter.py:58
 msgid "Something went wrong running Electron Cash."
 msgstr "Something went wrong running Electron Cash."
 
 #: gui/qt/exception_window.py:71
-#: ios/ElectronCash/electroncash_gui/ios_native/crashreporter.py:58
+#: ios/ElectronSV/electronsv_gui/ios_native/crashreporter.py:58
 msgid "Sorry!"
 msgstr "Sorry!"
 
 #: gui/qt/main_window.py:3073
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:389
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:389
 msgid "Source"
 msgstr "Source"
 
@@ -4248,16 +4248,16 @@ msgstr "Spanish"
 msgid "Spanish (S. America)"
 msgstr ""
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:847
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:847
 msgid "Specify a master key to re-create a deterministic wallet."
 msgstr "Specify a master key to re-create a deterministic wallet."
 
 #: gui/qt/utxo_list.py:68
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:248
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:248
 msgid "Spend"
 msgstr "Spend"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:871
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:871
 msgid "Spend From"
 msgstr "Spend From"
 
@@ -4265,20 +4265,20 @@ msgstr "Spend From"
 msgid "Spend from"
 msgstr "Spend from"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:907
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:907
 msgid "Spend from this Address"
 msgstr "Spend from this Address"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:641
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:641
 msgid "Spend from this UTXO"
 msgstr "Spend from this UTXO"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:474
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:474
 msgid "Spend from this UTXO + Selected"
 msgstr "Spend from this UTXO + Selected"
 
 #: gui/qt/main_window.py:2970
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:297
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:297
 msgid "Spend only confirmed coins"
 msgstr "Spend only confirmed coins"
 
@@ -4286,7 +4286,7 @@ msgstr "Spend only confirmed coins"
 msgid "Spend only confirmed inputs."
 msgstr "Spend only confirmed inputs."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:163
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:163
 msgid "Standard Wallet"
 msgstr ""
 
@@ -4297,15 +4297,15 @@ msgstr "Standard wallet"
 #: gui/kivy/uix/ui_screens/network.kv:15 gui/kivy/uix/ui_screens/invoice.kv:34
 #: gui/qt/invoice_list.py:36 gui/qt/request_list.py:42
 #: gui/qt/network_dialog.py:291
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:643
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:587
-#: ios/ElectronCash/electroncash_gui/ios_native/history.py:519
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:643
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:587
+#: ios/ElectronSV/electronsv_gui/ios_native/history.py:519
 msgid "Status"
 msgstr "Status"
 
 #: gui/qt/transaction_dialog.py:218
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:482
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:234
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:482
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:234
 msgid "Status:"
 msgstr "Status:"
 
@@ -4314,10 +4314,10 @@ msgid "Step {}/24.  Enter seed word as explained on your {}:"
 msgstr "Step {}/24.  Enter seed word as explained on your {}:"
 
 #: gui/qt/main_window.py:2035 gui/qt/main_window.py:3111
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:259
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:289
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:343
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1897
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:259
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:289
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:343
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1897
 msgid "Success"
 msgstr "Success"
 
@@ -4341,12 +4341,12 @@ msgstr "Sweep"
 msgid "Sweep private keys"
 msgstr "Sweep private keys"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:145
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:145
 msgid "Synchronizing"
 msgstr "Synchronizing"
 
 #: gui/kivy/main_window.py:648 gui/qt/main_window.py:776 gui/text.py:134
-#: gui/stdio.py:113 ios/ElectronCash/electroncash_gui/ios_native/gui.py:629
+#: gui/stdio.py:113 ios/ElectronSV/electronsv_gui/ios_native/gui.py:629
 msgid "Synchronizing..."
 msgstr "Synchronizing..."
 
@@ -4358,26 +4358,26 @@ msgstr "TREZOR wallet"
 msgid "Tamil"
 msgstr "Tamil"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:478
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:478
 msgid "Tap to add a description"
 msgstr "Tap to add a description"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:833
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:833
 msgid "Tap to add text..."
 msgstr "Tap to add text..."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:24
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:24
 msgid "Tap to enter a password"
 msgstr ""
 
-#: ios/ElectronCash/electroncash_gui/ios_native/crashreporter.py:63
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:154
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:163
+#: ios/ElectronSV/electronsv_gui/ios_native/crashreporter.py:63
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:154
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:163
 msgid "Tap to enter text..."
 msgstr "Tap to enter text..."
 
 #: gui/qt/util.py:531
-#: ios/ElectronCash/electroncash_gui/ios_native/seed_dialog.py:115
+#: ios/ElectronSV/electronsv_gui/ios_native/seed_dialog.py:115
 msgid "Text copied to clipboard"
 msgstr "Text copied to clipboard"
 
@@ -4407,20 +4407,20 @@ msgstr "The Electron Cash Developers do NOT audit or vet any plugins."
 msgid "The PIN cannot be longer than 9 characters."
 msgstr "The PIN cannot be longer than 9 characters."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:114
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:114
 msgid "The QR code contains multiple outputs. At this time only a single output is supported.\n"
 "Please try again."
 msgstr "The QR code contains multiple outputs. At this time only a single output is supported.\n"
 "Please try again."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:117
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:117
 msgid "The QR code does not appear to be a valid BCH address or payment request.\n"
 "Please try again."
 msgstr "The QR code does not appear to be a valid BCH address or payment request.\n"
 "Please try again."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:528
-#: ios/ElectronCash/electroncash_gui/ios_native/addrconv.py:106
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:528
+#: ios/ElectronSV/electronsv_gui/ios_native/addrconv.py:106
 msgid "The QR code does not appear to be a valid BCH address.\n"
 "Please try again."
 msgstr "The QR code does not appear to be a valid BCH address.\n"
@@ -4434,10 +4434,10 @@ msgstr "The amount of fee can be decided freely by the sender. However, transact
 msgid "The amount will be displayed in red if you do not have enough funds in your wallet."
 msgstr "The amount will be displayed in red if you do not have enough funds in your wallet."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:502
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:357
-#: ios/ElectronCash/electroncash_gui/ios_native/addrconv.py:85
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:884
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:502
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:357
+#: ios/ElectronSV/electronsv_gui/ios_native/addrconv.py:85
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:884
 msgid "The camera is not available for reading QR codes"
 msgstr "The camera is not available for reading QR codes"
 
@@ -4480,16 +4480,16 @@ msgstr "The following inputs could not be imported"
 msgid "The format of your wallet '%s' must be upgraded for Electron Cash. This change will not be backward compatible"
 msgstr "The format of your wallet '%s' must be upgraded for Electron Cash. This change will not be backward compatible"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:343
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:343
 msgid "The message has been successfully decrypted"
 msgstr "The message has been successfully decrypted"
 
 #: gui/qt/main_window.py:2179
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:240
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:240
 msgid "The operation is undefined. Not just in Electron Cash, but in general."
 msgstr "The operation is undefined. Not just in Electron Cash, but in general."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1571
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1571
 msgid "The password was incorrect for this encrypted wallet, please try again."
 msgstr "The password was incorrect for this encrypted wallet, please try again."
 
@@ -4537,20 +4537,20 @@ msgstr "The plugin manifest lacks a valid package name."
 msgid "The plugin manifest lacks a valid version."
 msgstr "The plugin manifest lacks a valid version."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:936
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:936
 msgid "The provided key does not appear to be a valid master key. Valid keys are long strings starting with either xpub/ypub/zpub or xprv/yprv/zprv. Please try again."
 msgstr "The provided key does not appear to be a valid master key. Valid keys are long strings starting with either xpub/ypub/zpub or xprv/yprv/zprv. Please try again."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/history.py:581
+#: ios/ElectronSV/electronsv_gui/ios_native/history.py:581
 msgid "The requested transaction has dropped out of the wallet history.\n\n"
-"If this problem persists, please contact us at electroncash.org."
+"If this problem persists, please contact us at ElectronSV.org."
 msgstr ""
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:642
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:642
 msgid "The seed you entered does not appear to be a valid wallet seed."
 msgstr "Show"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:540
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:540
 msgid "The seed you entered does not match the generated seed. Go back to the previous screen and double-check it, then try again."
 msgstr "The seed you entered does not match the generated seed. Go back to the previous screen and double-check it, then try again."
 
@@ -4558,11 +4558,11 @@ msgstr "The seed you entered does not match the generated seed. Go back to the p
 msgid "The selected file appears to be a binary file."
 msgstr "The selected file appears to be a binary file."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:259
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:259
 msgid "The signature for the provided message has been pasted into the signature text box."
 msgstr "The signature for the provided message has been pasted into the signature text box."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:339
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:339
 msgid "The specified public key cannot decrypt this cyphertext.\n"
 "Please specify the correct key to decrypt."
 msgstr "The specified public key cannot decrypt this cyphertext.\n"
@@ -4574,7 +4574,7 @@ msgid "The wallet '{}' contains multiple accounts, which are no longer supported
 msgstr "The wallet '{}' contains multiple accounts, which are no longer supported since Electrum 2.7.\n\n"
 "Do you want to split your wallet into multiple files?"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:308
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:308
 msgid "There are no transactions for this wallet on the blockchain."
 msgstr ""
 
@@ -4583,11 +4583,11 @@ msgid "There is already a plugin installed using the internal package name of th
 msgstr "There is already a plugin installed using the internal package name of the plugin you selected. It was therefore not possible to install it."
 
 #: gui/qt/network_dialog.py:288
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:495
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:495
 msgid "This blockchain is used to verify the transactions sent by your transaction server."
 msgstr "This blockchain is used to verify the transactions sent by your transaction server."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1915
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1915
 msgid "This device lacks the secure enclave service. As such, Touch/Face ID based wallet authentication is unavailable."
 msgstr "This device lacks the secure enclave service. As such, Touch/Face ID based wallet authentication is unavailable."
 
@@ -4608,13 +4608,13 @@ msgid "This interface is supported."
 msgstr "This interface is supported."
 
 #: gui/qt/main_window.py:2422
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1014
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1014
 msgid "This is a watching-only wallet"
 msgstr "This is a watching-only wallet"
 
 #: gui/qt/main_window.py:2193 gui/qt/main_window.py:2263
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:246
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:316
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:246
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:316
 msgid "This is a watching-only wallet."
 msgstr "This is a watching-only wallet."
 
@@ -4622,7 +4622,7 @@ msgstr "This is a watching-only wallet."
 msgid "This is a watching-only wallet. It does not contain private keys."
 msgstr "This is a watching-only wallet. It does not contain private keys."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1199
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1199
 msgid "This is a wathching-only wallet, so the given private keys will be converted to watching addresses."
 msgstr "This is a wathching-only wallet, so the given private keys will be converted to watching addresses."
 
@@ -4631,7 +4631,7 @@ msgid "This is the fee rate that will be used for this transaction."
 msgstr "This is the fee rate that will be used for this transaction."
 
 #: gui/qt/network_dialog.py:302
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:500
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:500
 msgid "This is the height of your local copy of the blockchain."
 msgstr "This is the height of your local copy of the blockchain."
 
@@ -4640,12 +4640,12 @@ msgid "This may result in higher transactions fees."
 msgstr "This may result in higher transactions fees."
 
 #: gui/qt/main_window.py:413
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1015
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1015
 msgid "This means you will not be able to spend Bitcoin Cash with it."
 msgstr "This means you will not be able to spend Bitcoin Cash with it."
 
 #: gui/qt/main_window.py:960
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1103
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1103
 msgid "This payment request will be signed."
 msgstr "This payment request will be signed."
 
@@ -4653,9 +4653,9 @@ msgstr "This payment request will be signed."
 msgid "This plugin facilitates the use of multi-signatures wallets."
 msgstr "This plugin facilitates the use of multi-signatures wallets."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:283
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:288
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:292
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:283
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:288
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:292
 msgid "This request expires: {}"
 msgstr "This request expires: {}"
 
@@ -4668,18 +4668,18 @@ msgid "This screen shows your list of transactions. It is currently empty."
 msgstr "This screen shows your list of transactions. It is currently empty."
 
 #: gui/qt/seed_dialog.py:39
-#: ios/ElectronCash/electroncash_gui/ios_native/seed_dialog.py:85
+#: ios/ElectronSV/electronsv_gui/ios_native/seed_dialog.py:85
 msgid "This seed will allow you to recover your wallet in case of computer failure."
 msgstr "This seed will allow you to recover your wallet in case of computer failure."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1601
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1601
 msgid "This spending wallet is not encrypted and not password protected. Sharing it over the internet could result in others intercepting the data and for you to potentially lose funds.\n\n"
 "Continue anyway?"
 msgstr "This spending wallet is not encrypted and not password protected. Sharing it over the internet could result in others intercepting the data and for you to potentially lose funds.\n\n"
 "Continue anyway?"
 
 #: gui/qt/main_window.py:1760
-#: ios/ElectronCash/electroncash_gui/ios_native/addrconv.py:47
+#: ios/ElectronSV/electronsv_gui/ios_native/addrconv.py:47
 msgid "This tool helps convert between address formats for Bitcoin Cash addresses.\n"
 "You are encouraged to use the 'Cash address' format."
 msgstr "This tool helps convert between address formats for Bitcoin Cash addresses.\n"
@@ -4689,20 +4689,20 @@ msgstr "This tool helps convert between address formats for Bitcoin Cash address
 msgid "This transaction is not saved. Close anyway?"
 msgstr "This transaction is not saved. Close anyway?"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:452
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:452
 msgid "This transaction is not signed and thus lacks a transaction ID."
 msgstr "This transaction is not signed and thus lacks a transaction ID."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:800
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:800
 msgid "This version of Electron Cash currently only supports sending to 1 address at a time! Sorry!"
 msgstr "This version of Electron Cash currently only supports sending to 1 address at a time! Sorry!"
 
 #: gui/qt/main_window.py:2128
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1933
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1933
 msgid "This wallet has no seed"
 msgstr "This wallet has no seed"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:289
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:289
 msgid "This wallet has no unspent outputs (coins) to display."
 msgstr ""
 
@@ -4741,30 +4741,30 @@ msgid "To continue, touch the Digital Bitbox's light for 3 seconds."
 msgstr "To continue, touch the Digital Bitbox's light for 3 seconds."
 
 #: lib/base_wizard.py:155
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:849
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:849
 msgid "To create a spending wallet, please enter a master private key (xprv/yprv/zprv)."
 msgstr "To create a spending wallet, please enter a master private key (xprv/yprv/zprv)."
 
 #: lib/base_wizard.py:154
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:848
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:848
 msgid "To create a watching-only wallet, please enter your master public key (xpub/ypub/zpub)."
 msgstr "To create a watching-only wallet, please enter your master public key (xpub/ypub/zpub)."
 
 #: gui/qt/exception_window.py:76
-#: ios/ElectronCash/electroncash_gui/ios_native/crashreporter.py:58
+#: ios/ElectronSV/electronsv_gui/ios_native/crashreporter.py:58
 msgid "To help us diagnose and fix the problem, you can send us a bug report that contains useful debug information:"
 msgstr "To help us diagnose and fix the problem, you can send us a bug report that contains useful debug information:"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1201
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1201
 msgid "To import addresses into a spending wallet, you must use their private key."
 msgstr "To import addresses into a spending wallet, you must use their private key."
 
 #: gui/qt/installwizard.py:381
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:401
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:401
 msgid "To make sure that you have properly saved your seed, please retype it here."
 msgstr "To make sure that you have properly saved your seed, please retype it here."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1313
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1313
 msgid "To proceed, please select a wallet to open."
 msgstr "To proceed, please select a wallet to open."
 
@@ -4780,9 +4780,9 @@ msgstr "To try to fix this, we will now re-pair with your device."
 msgid "Toggle CashAddr Display"
 msgstr "Toggle CashAddr Display"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:825
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:827
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:828
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:825
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:827
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:828
 msgid "Toggle Format"
 msgstr "Toggle Format"
 
@@ -4790,7 +4790,7 @@ msgstr "Toggle Format"
 msgid "Too long passphrase ({} > 50 chars)."
 msgstr "Too long passphrase ({} > 50 chars)."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:24
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:24
 msgid "Tools"
 msgstr ""
 
@@ -4798,25 +4798,25 @@ msgstr ""
 msgid "Total size"
 msgstr "Total size"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1887
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1887
 msgid "Touch/Face ID disabled for wallet"
 msgstr "Touch/Face ID disabled for wallet"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1883
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:2142
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1883
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:2142
 msgid "Touch/Face ID enabled for wallet"
 msgstr "Touch/Face ID enabled for wallet"
 
 #: gui/qt/transaction_dialog.py:70
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:596
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:596
 msgid "Transaction"
 msgstr "Transaction"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:631
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:631
 msgid "Transaction Details"
 msgstr "Transaction Details"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/history.py:595
+#: ios/ElectronSV/electronsv_gui/ios_native/history.py:595
 msgid "Transaction History"
 msgstr "Transaction History"
 
@@ -4826,20 +4826,20 @@ msgid "Transaction ID"
 msgstr "Transaction ID"
 
 #: gui/qt/transaction_dialog.py:75
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:423
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:789
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:423
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:789
 msgid "Transaction ID:"
 msgstr "Transaction ID:"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:233
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:233
 msgid "Transaction Input {}"
 msgstr "Transaction Input {}"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/history.py:582
+#: ios/ElectronSV/electronsv_gui/ios_native/history.py:582
 msgid "Transaction Not Found"
 msgstr ""
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:233
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:233
 msgid "Transaction Output {}"
 msgstr "Transaction Output {}"
 
@@ -4847,7 +4847,7 @@ msgstr "Transaction Output {}"
 msgid "Transaction accepted by mobile phone. Waiting for confirmation."
 msgstr "Transaction accepted by mobile phone. Waiting for confirmation."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:141
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:141
 msgid "Transaction history may not yet be current."
 msgstr "Transaction history may not yet be current."
 
@@ -4856,8 +4856,8 @@ msgid "Transaction saved successfully"
 msgstr "Transaction saved successfully"
 
 #: gui/kivy/uix/dialogs/tx_dialog.py:118 gui/qt/transaction_dialog.py:231
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:525
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:898
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:525
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:898
 msgid "Transaction unrelated to your wallet"
 msgstr "Transaction unrelated to your wallet"
 
@@ -4866,9 +4866,9 @@ msgid "Transaction:"
 msgstr "Transaction:"
 
 #: gui/qt/main_window.py:3077
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:193
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:65
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:24
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:193
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:65
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:24
 msgid "Transactions"
 msgstr "Transactions"
 
@@ -4888,16 +4888,16 @@ msgstr "Try to explain not only what the bug is, but how it occurs."
 msgid "Tx"
 msgstr "Tx"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:585
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:585
 msgid "Type"
 msgstr "Type"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:602
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:602
 msgid "Type 'delete' to proceed"
 msgstr "Type 'delete' to proceed"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:597
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:628
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:597
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:628
 msgid "UTXO"
 msgstr "UTXO"
 
@@ -4913,7 +4913,7 @@ msgstr "Unable to create csv"
 msgid "Unable to export history"
 msgstr "Unable to export history"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:226
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:226
 msgid "Unable to get a receiving address from your wallet!"
 msgstr "Unable to get a receiving address from your wallet!"
 
@@ -4945,23 +4945,23 @@ msgid "Unexpected error occurred."
 msgstr "Unexpected error occurred."
 
 #: gui/qt/address_list.py:188
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:638
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:904
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:638
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:904
 msgid "Unfreeze"
 msgstr "Unfreeze"
 
 #: gui/kivy/uix/screens.py:401 gui/kivy/uix/screens.py:407
 #: gui/qt/transaction_dialog.py:207 lib/util.py:433 lib/exchange_rate.py:396
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:658
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:424
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:446
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:552
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:332
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:363
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:364
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:372
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:393
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:491
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:658
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:424
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:446
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:552
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:332
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:363
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:364
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:372
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:393
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:491
 msgid "Unknown"
 msgstr "Unknown"
 
@@ -4969,11 +4969,11 @@ msgstr "Unknown"
 msgid "Unmatured"
 msgstr "Unmatured"
 
-#: lib/wallet.py:587 ios/ElectronCash/electroncash_gui/ios_native/send.py:706
+#: lib/wallet.py:587 ios/ElectronSV/electronsv_gui/ios_native/send.py:706
 msgid "Unsigned"
 msgstr "Unsigned"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:113
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:113
 msgid "Unsupported QR Code"
 msgstr "Unsupported QR Code"
 
@@ -4982,11 +4982,11 @@ msgid "Unsupported output script."
 msgstr "Unsupported output script."
 
 #: gui/kivy/uix/ui_screens/address.kv:84 gui/kivy/uix/screens.py:514
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:30
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:30
 msgid "Unused"
 msgstr "Unused"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:144
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:144
 msgid "Updating transaction history."
 msgstr "Updating transaction history."
 
@@ -5006,12 +5006,12 @@ msgstr "Use Coin Type 145 with bip39"
 msgid "Use Tor Proxy"
 msgstr "Use Tor Proxy"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:2151
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:2151
 msgid "Use Touch/Face ID"
 msgstr "Use Touch/Face ID"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:817
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1542
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:817
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1542
 msgid "Use a Master Key"
 msgstr ""
 
@@ -5020,18 +5020,18 @@ msgid "Use a hardware device"
 msgstr "Use a hardware device"
 
 #: gui/qt/network_dialog.py:82 gui/qt/network_dialog.py:145
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:405
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:429
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:405
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:429
 msgid "Use as server"
 msgstr "Use as server"
 
 #: gui/qt/main_window.py:2933
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:282
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:282
 msgid "Use change addresses"
 msgstr "Use change addresses"
 
 #: gui/qt/main_window.py:2952
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:289
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:289
 msgid "Use multiple change addresses"
 msgstr "Use multiple change addresses"
 
@@ -5051,25 +5051,25 @@ msgstr "Use setconfig to set ssl_chain and ssl_privkey."
 msgid "Use the camera button to scan a QR code."
 msgstr "Use the camera button to scan a QR code."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:401
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:401
 msgid "Use the quick suggestions to save time."
 msgstr "Use the quick suggestions to save time."
 
 #: gui/qt/password_dialog.py:173
-#: ios/ElectronCash/electroncash_gui/ios_native/password_dialog.py:145
+#: ios/ElectronSV/electronsv_gui/ios_native/password_dialog.py:145
 msgid "Use this dialog to add a password to your wallet."
 msgstr "Use this dialog to add a password to your wallet."
 
 #: gui/qt/password_dialog.py:179
-#: ios/ElectronCash/electroncash_gui/ios_native/password_dialog.py:151
+#: ios/ElectronSV/electronsv_gui/ios_native/password_dialog.py:151
 msgid "Use this dialog to change your password."
 msgstr "Use this dialog to change your password."
 
 #: gui/kivy/uix/ui_screens/address.kv:84 gui/kivy/uix/screens.py:499
 #: gui/qt/address_list.py:102
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:31
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:194
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:467
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:31
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:194
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:467
 msgid "Used"
 msgstr "Used"
 
@@ -5089,7 +5089,7 @@ msgstr "Uses icons from the Icons8 icon pack (icons8.com)."
 msgid "Using change addresses makes it more difficult for other people to track your transactions."
 msgstr "Using change addresses makes it more difficult for other people to track your transactions."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1086
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1086
 msgid "Valid"
 msgstr "Valid"
 
@@ -5101,7 +5101,7 @@ msgstr "Verified block headers"
 msgid "Verify"
 msgstr "Verify"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:920
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:920
 msgid "Verify Message"
 msgstr "Verify Message"
 
@@ -5128,20 +5128,20 @@ msgstr "View invoice"
 
 #: gui/qt/history_list.py:185 gui/qt/address_list.py:184
 #: gui/qt/contact_list.py:86
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:869
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:295
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:781
-#: ios/ElectronCash/electroncash_gui/ios_native/coins.py:644
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:910
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:869
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:295
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:781
+#: ios/ElectronSV/electronsv_gui/ios_native/coins.py:644
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:910
 msgid "View on block explorer"
 msgstr "View on block explorer"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:244
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:244
 msgid "View the wallet seed phrase used for wallet recovery"
 msgstr "View the wallet seed phrase used for wallet recovery"
 
 #: gui/qt/seed_dialog.py:42
-#: ios/ElectronCash/electroncash_gui/ios_native/seed_dialog.py:88
+#: ios/ElectronSV/electronsv_gui/ios_native/seed_dialog.py:88
 msgid "WARNING"
 msgstr "WARNING"
 
@@ -5173,21 +5173,21 @@ msgstr "Wallet Information"
 msgid "Wallet Name"
 msgstr "Wallet Name"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:632
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:632
 msgid "Wallet Operations"
 msgstr "Wallet Operations"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:25
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:25
 msgid "Wallet Password"
 msgstr ""
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:631
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:243
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:631
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:243
 msgid "Wallet Recovery Seed"
 msgstr "Wallet Recovery Seed"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/seed_dialog.py:127
-#: ios/ElectronCash/electroncash_gui/ios_native/seed_dialog.py:145
+#: ios/ElectronSV/electronsv_gui/ios_native/seed_dialog.py:127
+#: ios/ElectronSV/electronsv_gui/ios_native/seed_dialog.py:145
 msgid "Wallet Seed"
 msgstr "Wallet Seed"
 
@@ -5199,11 +5199,11 @@ msgstr "Wallet backup created"
 msgid "Wallet change address"
 msgstr "Wallet change address"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:596
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:596
 msgid "Wallet deleted successfully"
 msgstr "Wallet deleted successfully"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1620
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1620
 msgid "Wallet file"
 msgstr "Wallet file"
 
@@ -5215,15 +5215,15 @@ msgstr "Wallet has no address to sweep to"
 msgid "Wallet name"
 msgstr "Wallet name"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:232
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:232
 msgid "Wallet name is empty. Please enter a wallet name to proceed."
 msgstr "Wallet name is empty. Please enter a wallet name to proceed."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:236
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:236
 msgid "Wallet password is empty. Please set a wallet password to proceed. You can disable wallet password protection later if you wish."
 msgstr "Wallet password is empty. Please set a wallet password to proceed. You can disable wallet password protection later if you wish."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:238
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:238
 msgid "Wallet passwords do not match. Please confirm the password you wish to set for your wallet by entering the same password twice."
 msgstr "Wallet passwords do not match. Please confirm the password you wish to set for your wallet by entering the same password twice."
 
@@ -5231,7 +5231,7 @@ msgstr "Wallet passwords do not match. Please confirm the password you wish to s
 msgid "Wallet receive address"
 msgstr "Wallet receive address"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1663
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1663
 msgid "Wallet successfully renamed"
 msgstr "Wallet successfully renamed"
 
@@ -5243,7 +5243,7 @@ msgstr "Wallet type"
 msgid "Wallet type:"
 msgstr "Wallet type:"
 
-#: gui/kivy/main.kv:460 ios/ElectronCash/electroncash_gui/ios_native/gui.py:303
+#: gui/kivy/main.kv:460 ios/ElectronSV/electronsv_gui/ios_native/gui.py:303
 msgid "Wallets"
 msgstr "Wallets"
 
@@ -5273,11 +5273,11 @@ msgstr "We do not guarantee that BIP39 imports will always be supported in Elect
 msgid "We encountered an error while connecting to your device:"
 msgstr "We encountered an error while connecting to your device:"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1911
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1911
 msgid "We will flag this wallet as requesting to use Touch/Face ID, however it is currently disabled on the device. Please enable Touch/Face ID from the iOS General settings in order to use biometrics for this wallet."
 msgstr "We will flag this wallet as requesting to use Touch/Face ID, however it is currently disabled on the device. Please enable Touch/Face ID from the iOS General settings in order to use biometrics for this wallet."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:29
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:29
 msgid "Welcome to"
 msgstr ""
 
@@ -5318,47 +5318,47 @@ msgid "Write down the seed word shown on your {}"
 msgstr "Write down the seed word shown on your {}"
 
 #: lib/base_wizard.py:312 lib/base_wizard.py:320
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:731
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1427
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:731
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1427
 msgid "Wrong key type"
 msgstr "Wrong key type"
 
 #: gui/qt/main_window.py:2221
-#: ios/ElectronCash/electroncash_gui/ios_native/sign_decrypt_dialog.py:291
+#: ios/ElectronSV/electronsv_gui/ios_native/sign_decrypt_dialog.py:291
 msgid "Wrong signature"
 msgstr "Wrong signature"
 
 #: plugins/keepkey/qt_generic.py:325 plugins/trezor/qt.py:340
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:776
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1037
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:2149
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:776
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1037
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:2149
 msgid "Yes"
 msgstr "Yes"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:929
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:929
 msgid "You appear to have entered more than one item. Each wallet can only have a single master key. To use multiple master keys, create a new wallet for each key."
 msgstr "You appear to have entered more than one item. Each wallet can only have a single master key. To use multiple master keys, create a new wallet for each key."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:942
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:942
 msgid "You appear to have entered no valid Bitcoin Cash addresses or private keys."
 msgstr "You appear to have entered no valid Bitcoin Cash addresses or private keys."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:605
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:605
 msgid "You are about to delete the wallet '{}'. Unless you have other copies of this wallet or you wrote its seed down, you may lose funds!\n\n"
 "In order to proceed, please type the word 'delete' in the box below:"
 msgstr "You are about to delete the wallet '{}'. Unless you have other copies of this wallet or you wrote its seed down, you may lose funds!\n\n"
 "In order to proceed, please type the word 'delete' in the box below:"
 
 #: gui/kivy/uix/ui_screens/network.kv:50 gui/qt/network_dialog.py:365
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:265
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:265
 msgid "You are following branch"
 msgstr "You are following branch"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1643
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1643
 msgid "You are renaming the currently open encrypted wallet '{}'."
 msgstr "You are renaming the currently open encrypted wallet '{}'."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:583
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:583
 msgid "You are requesting the deletion of the currently active wallet. In order to delete this wallet, please switch to another wallet, then select this option again on this wallet."
 msgstr "You are requesting the deletion of the currently active wallet. In order to delete this wallet, please switch to another wallet, then select this option again on this wallet."
 
@@ -5374,15 +5374,15 @@ msgstr "You are using a non-deterministic wallet, which cannot create new addres
 msgid "You are using an OP_RETURN message. This gets permanently written to the blockchain."
 msgstr "You are using an OP_RETURN message. This gets permanently written to the blockchain."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1313
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1313
 msgid "You can also create a new wallet by selecting the 'Add new wallet' option."
 msgstr "You can also create a new wallet by selecting the 'Add new wallet' option."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:811
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:811
 msgid "You can have as many wallets as you like! Choose from one of the options below:"
 msgstr ""
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:403
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:403
 msgid "You can restore a wallet that was created by any version of Electron Cash."
 msgstr "You can restore a wallet that was created by any version of Electron Cash."
 
@@ -5394,11 +5394,11 @@ msgstr "You can set the homescreen on your device to personalize it.  You must c
 msgid "You cannot access your coins or a backup without the password."
 msgstr "You cannot access your coins or a backup without the password."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:600
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:600
 msgid "You didn't enter the text 'delete' in the previous dialog. For your own safety, the wallet file was not deleted."
 msgstr "You didn't enter the text 'delete' in the previous dialog. For your own safety, the wallet file was not deleted."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/contacts.py:140
+#: ios/ElectronSV/electronsv_gui/ios_native/contacts.py:140
 msgid "You don't have any contacts yet. Create a new contact now!"
 msgstr ""
 
@@ -5414,7 +5414,7 @@ msgstr "You may extend your seed with custom words."
 msgid "You may load a CSV file using the file icon."
 msgstr "You may load a CSV file using the file icon."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:502
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:502
 msgid "You may share this payment request as a 'bitcoincash:' style URI, or as a QR Code Image."
 msgstr "You may share this payment request as a 'bitcoincash:' style URI, or as a QR Code Image."
 
@@ -5422,7 +5422,7 @@ msgstr "You may share this payment request as a 'bitcoincash:' style URI, or as 
 msgid "You need to create a separate Electron Cash wallet for each passphrase you use as they each generate different addresses.  Changing your passphrase does not lose other wallets, each is still accessible behind its own passphrase."
 msgstr "You need to create a separate Electron Cash wallet for each passphrase you use as they each generate different addresses.  Changing your passphrase does not lose other wallets, each is still accessible behind its own passphrase."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:452
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:452
 msgid "You need to sign this transaction in order for it to get a transaction ID."
 msgstr "You need to sign this transaction in order for it to get a transaction ID."
 
@@ -5430,7 +5430,7 @@ msgstr "You need to sign this transaction in order for it to get a transaction I
 msgid "You should enable PIN protection.  Your PIN is the only protection for your bitcoins if your device is lost or stolen."
 msgstr "You should enable PIN protection.  Your PIN is the only protection for your bitcoins if your device is lost or stolen."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:560
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:560
 msgid "You specified the same name!"
 msgstr "You specified the same name!"
 
@@ -5456,13 +5456,13 @@ msgstr "Your Ledger is locked. Please unlock it."
 msgid "Your accounts have been moved to"
 msgstr "Your accounts have been moved to"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:1700
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:1700
 msgid "Your biometrics-based key for this wallet was reset. This means you will need to enter your password for this wallet again.\n\n"
 "(Then, you can optionally re-enable Touch/Face ID as before.)"
 msgstr ""
 
 #: gui/qt/password_dialog.py:176
-#: ios/ElectronCash/electroncash_gui/ios_native/password_dialog.py:148
+#: ios/ElectronSV/electronsv_gui/ios_native/password_dialog.py:148
 msgid "Your bitcoins are password protected. However, your wallet file is not encrypted."
 msgstr "Your bitcoins are password protected. However, your wallet file is not encrypted."
 
@@ -5475,7 +5475,7 @@ msgid "Your device firmware is too old"
 msgstr "Your device firmware is too old"
 
 #: gui/qt/main_window.py:1492
-#: ios/ElectronCash/electroncash_gui/ios_native/send.py:757
+#: ios/ElectronSV/electronsv_gui/ios_native/send.py:757
 msgid "Your fee is too high.  Max is 50 sat/byte."
 msgstr "Your fee is too high.  Max is 50 sat/byte."
 
@@ -5491,12 +5491,12 @@ msgstr "Your labels were exported to"
 msgid "Your labels were imported from"
 msgstr "Your labels were imported from"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1339
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1339
 msgid "Your new imported wallet has been successfully created. Would you like to switch to it now?"
 msgstr "Your new imported wallet has been successfully created. Would you like to switch to it now?"
 
 #: gui/qt/seed_dialog.py:153
-#: ios/ElectronCash/electroncash_gui/ios_native/seed_dialog.py:79
+#: ios/ElectronSV/electronsv_gui/ios_native/seed_dialog.py:79
 msgid "Your seed extension is"
 msgstr "Your seed extension is"
 
@@ -5505,12 +5505,12 @@ msgid "Your seed extension must be saved together with your seed."
 msgstr "Your seed extension must be saved together with your seed."
 
 #: gui/qt/installwizard.py:379
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:401
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:401
 msgid "Your seed is important!"
 msgstr "Your seed is important!"
 
 #: gui/kivy/uix/ui_screens/network.kv:50 gui/qt/network_dialog.py:365
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:265
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:265
 msgid "Your server is on branch"
 msgstr "Your server is on branch"
 
@@ -5519,7 +5519,7 @@ msgid "Your transaction was sent to the cosigning pool."
 msgstr "Your transaction was sent to the cosigning pool."
 
 #: gui/qt/seed_dialog.py:206 gui/qt/installwizard.py:388
-#: ios/ElectronCash/electroncash_gui/ios_native/seed_dialog.py:78
+#: ios/ElectronSV/electronsv_gui/ios_native/seed_dialog.py:78
 msgid "Your wallet generation seed is:"
 msgstr "Your wallet generation seed is:"
 
@@ -5528,17 +5528,17 @@ msgid "Your wallet history has been successfully exported."
 msgstr "Your wallet history has been successfully exported."
 
 #: gui/qt/password_dialog.py:172
-#: ios/ElectronCash/electroncash_gui/ios_native/password_dialog.py:144
+#: ios/ElectronSV/electronsv_gui/ios_native/password_dialog.py:144
 msgid "Your wallet is not protected."
 msgstr "Your wallet is not protected."
 
 #: gui/qt/password_dialog.py:178
-#: ios/ElectronCash/electroncash_gui/ios_native/password_dialog.py:150
+#: ios/ElectronSV/electronsv_gui/ios_native/password_dialog.py:150
 msgid "Your wallet is password protected and encrypted."
 msgstr "Your wallet is password protected and encrypted."
 
 #: gui/qt/main_window.py:2781
-#: ios/ElectronCash/electroncash_gui/ios_native/prefs.py:320
+#: ios/ElectronSV/electronsv_gui/ios_native/prefs.py:320
 msgid "Zeros after decimal point"
 msgstr "Zeros after decimal point"
 
@@ -5590,7 +5590,7 @@ msgstr "[r] - show own receipt addresses"
 msgid "[s] - send stored payment order"
 msgstr "[s] - send stored payment order"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1536
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1536
 msgid "and create your standard wallet or restore an existing one with any of the methods below"
 msgstr ""
 
@@ -5599,8 +5599,8 @@ msgid "are frozen"
 msgstr "are frozen"
 
 #: gui/qt/network_dialog.py:354 gui/qt/network_dialog.py:366
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:255
-#: ios/ElectronCash/electroncash_gui/ios_native/network_dialog.py:266
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:255
+#: ios/ElectronSV/electronsv_gui/ios_native/network_dialog.py:266
 msgid "blocks"
 msgstr "blocks"
 
@@ -5608,8 +5608,8 @@ msgstr "blocks"
 msgid "cancel"
 msgstr "cancel"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:495
-#: ios/ElectronCash/electroncash_gui/ios_native/history.py:515
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:495
+#: ios/ElectronSV/electronsv_gui/ios_native/history.py:515
 msgid "confirmations"
 msgstr "confirmations"
 
@@ -5617,7 +5617,7 @@ msgstr "confirmations"
 msgid "cosigner"
 msgstr "cosigner"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/wallets.py:591
+#: ios/ElectronSV/electronsv_gui/ios_native/wallets.py:591
 msgid "delete"
 msgstr ""
 
@@ -5625,7 +5625,7 @@ msgstr ""
 msgid "initialized"
 msgstr "initialized"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:1197
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:1197
 msgid "invalid items will be discarded"
 msgstr "invalid items will be discarded"
 
@@ -5652,15 +5652,15 @@ msgstr "unconfirmed"
 #: gui/kivy/uix/dialogs/tx_dialog.py:125 gui/qt/fee_slider.py:32
 #: gui/qt/transaction_dialog.py:237 gui/qt/transaction_dialog.py:299
 #: lib/wallet.py:931
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:176
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:243
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:555
-#: ios/ElectronCash/electroncash_gui/ios_native/feeslider.py:76
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:176
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:243
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:555
+#: ios/ElectronSV/electronsv_gui/ios_native/feeslider.py:76
 msgid "unknown"
 msgstr "unknown"
 
 #: gui/kivy/uix/dialogs/tx_dialog.py:113 gui/qt/transaction_dialog.py:225
-#: ios/ElectronCash/electroncash_gui/ios_native/txdetail.py:511
+#: ios/ElectronSV/electronsv_gui/ios_native/txdetail.py:511
 msgid "unknown (low fee)"
 msgstr "unknown (low fee)"
 
@@ -5673,7 +5673,7 @@ msgid "unverified"
 msgstr "unverified"
 
 #: gui/qt/main_window.py:401
-#: ios/ElectronCash/electroncash_gui/ios_native/addresses.py:190
+#: ios/ElectronSV/electronsv_gui/ios_native/addresses.py:190
 msgid "watching only"
 msgstr "watching only"
 
@@ -5681,7 +5681,7 @@ msgstr "watching only"
 msgid "wiped"
 msgstr "wiped"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/newwallet.py:31
+#: ios/ElectronSV/electronsv_gui/ios_native/newwallet.py:31
 msgid "without downloading the blockchain or running a full node."
 msgstr ""
 
@@ -5697,19 +5697,19 @@ msgstr "{} confirmations"
 msgid "{} connections."
 msgstr "{} connections."
 
-#: ios/ElectronCash/electroncash_gui/ios_native/utils.py:363
+#: ios/ElectronSV/electronsv_gui/ios_native/utils.py:363
 msgid "{} copied to clipboard"
 msgstr "{} copied to clipboard"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:299
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:299
 msgid "{} days"
 msgstr "{} days"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/utils.py:373
+#: ios/ElectronSV/electronsv_gui/ios_native/utils.py:373
 msgid "{} exported successfully"
 msgstr "{} exported successfully"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:300
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:300
 msgid "{} hours"
 msgstr "{} hours"
 
@@ -5717,32 +5717,32 @@ msgstr "{} hours"
 msgid "{} is not a BitcoinCash URI"
 msgstr "{} is not a BitcoinCash URI"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:301
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:301
 msgid "{} mins"
 msgstr "{} mins"
 
 #: gui/qt/main_window.py:625
-#: ios/ElectronCash/electroncash_gui/ios_native/gui.py:742
+#: ios/ElectronSV/electronsv_gui/ios_native/gui.py:742
 msgid "{} new transactions received: Total amount received in the new transactions {}"
 msgstr "{} new transactions received: Total amount received in the new transactions {}"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/utils.py:365
+#: ios/ElectronSV/electronsv_gui/ios_native/utils.py:365
 msgid "{} saved successfully"
 msgstr "{} saved successfully"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/utils.py:371
+#: ios/ElectronSV/electronsv_gui/ios_native/utils.py:371
 msgid "{} saved to photo library"
 msgstr "{} saved to photo library"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/receive.py:302
+#: ios/ElectronSV/electronsv_gui/ios_native/receive.py:302
 msgid "{} secs"
 msgstr "{} secs"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/utils.py:367
+#: ios/ElectronSV/electronsv_gui/ios_native/utils.py:367
 msgid "{} sent successfully"
 msgstr "{} sent successfully"
 
-#: ios/ElectronCash/electroncash_gui/ios_native/utils.py:369
+#: ios/ElectronSV/electronsv_gui/ios_native/utils.py:369
 msgid "{} sent to printer"
 msgstr "{} sent to printer"
 
